@@ -94,13 +94,13 @@
                             <span class="label">Happy Customers</span>
                         </div>
                     </div>
-                    <div class="card" data-aos="fade-right" >
+                    <div class="card glowing-circle" data-aos="fade-right" >
                         <span class="card_underlay"></span>
                         <div class="wrapper">
-                            <h3 class="title">Duplex Villa</h3>
+                            <h4 class="title">Duplex Villa </h4>
                             <span class="square highlight">1250 Sq.ft </span>
                             <span class="info">Near Panjapur, Trichy</span>
-                            <a class="link link-arrow" href="#" target="_blank">From 60L<i class="icon-arrow_right icon"></i></a>
+                            <a class="link link-arrow" href="booknow.php" target="_blank">Book Now<i class="icon-arrow_right icon"></i></a>
                         </div>
                         <picture>
                             <img class="lazy" src="img/building_mini.png" alt="media" />
