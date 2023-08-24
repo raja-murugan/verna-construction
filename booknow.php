@@ -85,17 +85,9 @@
                                     src=img/singleproject.jpg alt="Fresh Concept Construction Renovation"></picture>
                         </div>
                         <h3 class=about_article-header>Description</h3>
-                        <p class=about_article-text>Congue eu consequat ac felis donec et odio pellentesque. Nullam ac
-                            tortor vitae purus. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Sit
-                            amet purus gravida quis blandit turpis. Erat nam at lectus urna duis convallis convallis
-                            tellus. Turpis nunc eget lorem dolor sed. Dignissim cras tincidunt lobortis feugiat. Tempor
-                            nec feugiat nisl pretium fusce id velit. Blandit libero volutpat sed cras ornare arcu. Amet
-                            consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Purus semper
-                            eget duis at tellus at urna. Consequat ac felis donec et odio pellentesque diam volutpat</p>
+                        <p class=about_article-text>Welcome to Verna Construction's showcase of the Prem Nagar - Duplex Villa project, nestled in the heart of Prem Nagar, Trichy. With a land area of 1250 square feet and a spacious construction area of 1400 square feet, this duplex villa exemplifies our commitment to excellence in construction and engineering.</p>
                         <h3 class=about_article-header>Building better development</h3>
-                        <p class=about_article-text>Aenean sed adipiscing diam donec adipiscing tristique risus. Nunc
-                            pulvinar sapien et ligula ullamcorper malesuada. Venenatis urna cursus eget nunc scelerisque
-                            viverra mauris in. A cras semper auctor neque vitae tempus.</p>
+                        <p class=about_article-text>At Verna Construction, we believe in building more than just structures; we create better living spaces and thriving communities. The Prem Nagar Duplex Villa project reflects our dedication to quality, functionality, and aesthetics. Each aspect of this development has been meticulously planned and executed to ensure a superior living experience for our clients.</p>
                         <ul class=checklist>
                             <li class=checklist_item><i class="icon-check icon"></i> Building the future with ideas</li>
                             <li class=checklist_item><i class="icon-check icon"></i> Designing future with excellence
@@ -105,10 +97,9 @@
                             <li class=checklist_item><i class="icon-check icon"></i> Engineering the better way</li>
                         </ul>
                         <h3 class=about_article-header>Engineering With Style</h3>
-                        <p class=about_article-text>Aliquet nec ullamcorper sit amet risus nullam eget felis. Ligula
-                            ullamcorper malesuada proin libero. Viverra mauris in aliquam sem. Sem viverra aliquet eget
-                            sit amet. Dignissim convallis aenean et tortor at. Velit scelerisque in dictum non
-                            consectetur a. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper.
+                        <p class=about_article-text>Our construction philosophy blends engineering expertise with stylish design. The Prem Nagar Duplex Villa is a testament to our ability to seamlessly integrate architectural flair and modern functionality. From the layout to the finishing touches, we've combined innovative engineering with elegant aesthetics to craft a truly exceptional living space.
+                        </p><br>
+                        <p class=about_article-text>Explore our Prem Nagar - Duplex Villa project and witness our commitment to delivering quality and style in every construction endeavor. Your dream home awaits!
                         </p>
                     </article>
                     <div class=about_aside>
