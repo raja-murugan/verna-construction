@@ -69,94 +69,113 @@
     <main class="gallery section">
         <div class="container">
             <ul class="gallery_grid" data-role="gallery">
+                
             <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 13-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 13-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
-                        </div>
+                        </div> -->
+                    </a>
+                </li>
+                <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 14-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
+                        <picture>
+                            <img class="lazy" src="img/gallery/Asset 14-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
+                        </picture>
+                        <!-- <div class="overlay">
+                            <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
+                        </div> -->
+                    </a>
+                </li>
+                <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 16-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
+                        <picture>
+                            <img class="lazy" src="img/gallery/Asset 16-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
+                        </picture>
+                        <!-- <div class="overlay">
+                            <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 1" data-aos="fade-up"><a class="media" href="img/gallery/Asset 1-50.jpg" data-caption="PG Nagar, K.K Nagar, Trichy." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 1-50.jpg" alt="PG Nagar, K.K Nagar, Trichy.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">PG Nagar, K.K Nagar, Trichy.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 3" data-aos="fade-up"><a class="media" href="img/gallery/Asset 3-50.jpg" data-caption="Alagu Nagar, Manachanallur, Trichy." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 3-50.jpg" alt="Alagu Nagar, Manachanallur, Trichy.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Alagu Nagar, Manachanallur, Trichy.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 8" data-aos="fade-up"><a class="media" href="img/gallery/Asset 9-50.jpg" data-caption="Mannivakkam, Chennai." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 9-50.jpg" alt="Mannivakkam, Chennai.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Mannivakkam, Chennai.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 9" data-aos="fade-up"><a class="media" href="img/gallery/Asset 11-50.jpg" data-caption="Alagu Nagar, Manachanallur, Trichy." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 11-50.jpg" alt="Alagu Nagar, Manachanallur, Trichy.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Alagu Nagar, Manachanallur, Trichy.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 2-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 2-50.jpg" alt="Ayapakkam, Chennai.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 6" data-aos="fade-up"><a class="media" href="img/gallery/Asset 7-50.jpg" data-caption="Nerkundram, Chennai." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 7-50.jpg" alt="Nerkundram, Chennai.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Nerkundram, Chennai.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 4" data-aos="fade-up"><a class="media" href="img/gallery/Asset 5-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 5-50.jpg" alt="Ayapakkam, Chennai.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 7" data-aos="fade-up"><a class="media" href="img/gallery/Asset 8-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 8-50.jpg" alt="Ayapakkam, Chennai.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
                 <li class="gallery_item 8" data-aos="fade-up"><a class="media" href="img/gallery/Asset 12-50.jpeg" data-caption="CKP Garden Plot No.5, Trichy." data-role="gallery-link">
                         <picture>
                             <img class="lazy" src="img/gallery/Asset 12-50.jpeg" alt="CKP Garden Plot No.5, Trichy.">
                         </picture>
-                        <div class="overlay">
+                        <!-- <div class="overlay">
                             <span class="overlay_label">CKP Garden, Plot No.5, Trichy.</span>
-                        </div>
+                        </div> -->
                     </a>
                 </li>
             </ul>
