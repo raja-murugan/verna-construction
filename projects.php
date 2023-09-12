@@ -2,15 +2,15 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Verna Engineers & Contractors</title>
-    <link rel="stylesheet preload" as="style" href="css/preload.min.css">
-    <link rel="stylesheet preload" as="style" href="css/icomoon.css">
-    <link rel="stylesheet preload" as="style" href="css/libs.min.css">
-    <link rel="stylesheet" href="css/projects2.min.css">
-    <link rel="stylesheet" href="css/floatbutton.min.css">
+    <link rel="stylesheet preload" as="style" href="css/preload.min.css" />
+    <link rel="stylesheet preload" as="style" href="css/icomoon.css" />
+    <link rel="stylesheet preload" as="style" href="css/libs.min.css" />
+    <link rel="stylesheet" href="css/projects.min.css" />
+    <link rel="stylesheet" href="css/floatbutton.min.css" />
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
 </head>
 
@@ -73,7 +73,311 @@
             </picture>
         </div>
     </header>
+
     <main class="projects section">
+    <div class="container">
+        <div class=row>
+            <div class="col-4">                         
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset=img/projects/p8.jpg srcset=img/projects/p8.jpg type=image/webp><img
+                                class=lazy data-src=img/projects/p8.jpg src=img/projects/p8.jpg
+                                alt="Food Factory Design and Construction">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>VRL Logistics</span> 
+                        <span class="divider divider--line" data-aos=slide-right></span>
+                        </h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Manikandam, Trichy </span>
+                        </div>
+                    </div>
+                </li>
+            </div>  
+
+            <div class="col-4">    
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 6-50.jpg" srcset="img/gallery/Asset 6-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 6-50.jpg" src="img/gallery/Asset 6-50.jpg"
+                                alt="Fresh Concept Construction Renovation">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Sathya Homes</span> 
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>
+                    </div>
+                </li>   
+            </div>                                  
+                
+            <div class="col-4">               
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset=img/projects/p3.jpg srcset=img/projects/p3.jpg type=image/webp><img
+                                class=lazy data-src=img/projects/p3.jpg src=img/projects/p3.jpg
+                                alt="Reconstruction of Old Factory Building">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Virutcham</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Ramachandra Nagar, Chennai </span>
+                        </div>
+                    </div>
+                </li>
+             </div>      
+        </div>  
+        <br>     
+                
+
+        <div class="row">
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset=img/projects/p7.jpg srcset=img/projects/p7.jpg type=image/webp><img
+                                class=lazy data-src=iimg/projects/p7.jpg src=img/projects/p7.jpg
+                                alt="Installation and Creation of a Supply System">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h4 class=main_title data-aos=fade-in><span class=text>Landis Matric. higher secondary
+                        School</span> 
+                        <span class="divider divider--line" data-aos=slide-right></span></h4>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Anna Nagar Main Rd, Natham </span>
+                        </div>
+                    </div>
+                </li>
+            </div>  
+
+            <div class="col-4">    
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset=img/projects/p2.jpg srcset=img/projects/p2.jpg type=image/webp><img
+                                class=lazy data-src=img/projects/p2.jpg src=img/projects/p2.jpg
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Siva Homes</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Porur, Chennai </span>
+                        </div>
+                    </div>
+                </li>
+            </div> 
+            
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 14-50.jpg" srcset="img/gallery/Asset 14-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 14-50.jpg" src="img/gallery/Asset 14-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>
+                    </div>
+                </li>
+            </div> 
+        </div>
+        <br>
+          
+
+        <div class="row">
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 16-50.jpg" srcset="img/gallery/Asset 16-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 16-50.jpg" src="img/gallery/Asset 16-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+            <div class="col -4"> 
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 1-50.jpg" srcset="img/gallery/Asset 1-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 1-50.jpg" src="img/gallery/Asset 1-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 2-50.jpg" srcset="img/gallery/Asset 2-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 2-50.jpg" src="img/gallery/Asset 2-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+        </div>   
+        <br>  
+         
+        <div class="row">
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 3-50.jpg" srcset="img/gallery/Asset 3-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 3-50.jpg" src="img/gallery/Asset 3-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+            <div class="col-4">  
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 5-50.jpg" srcset="img/gallery/Asset 5-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 5-50.jpg" src="img/gallery/Asset 5-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 8-50.jpg" srcset="img/gallery/Asset 8-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 8-50.jpg" src="img/gallery/Asset 8-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+             </div>  
+        </div>                                                
+        <br>  
+
+        <div class="row">
+            <div class=" col-4"> 
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 7-50.jpg" srcset="img/gallery/Asset 7-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 7-50.jpg" src="img/gallery/Asset 7-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>    
+
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 9-50.jpg" srcset="img/gallery/Asset 9-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 9-50.jpg" src="img/gallery/Asset 9-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+
+            <div class="col-4">
+                <li class=projects_list-item>
+                    <div class=media data-aos=zoom-in-right>
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 11-50.jpg" srcset="img/gallery/Asset 11-50.jpg" type=image/webp><img
+                                class=lazy data-src="img/gallery/Asset 11-50.jpg" src="img/gallery/Asset 11-50.jpg"
+                                alt="Jazzy Elite Construction Shopping Center">
+                        </picture>
+                    </div>
+                    <div class=main>
+                        <h3 class=main_title data-aos=fade-in><span class=text>Verna Engineer</span>
+                        <span class="divider divider--line" data-aos=slide-right></span></h3>
+                        <div class=main_info><span class=location data-aos=fade-in data-aos-delay=50><i
+                                    class="icon-location icon"></i> Tiruchirapalli,Tamilnadu </span>
+                        </div>  
+                    </div>
+                </li>
+            </div>
+        </div>                 
+          
+        </div>
+    </main>
+    <!-- <main class="projects section">
         <div class="container">
             <ul class="projects_list">
                 <li class="projects_list-item">
@@ -164,7 +468,7 @@
                     </div>
                     <div class="main">
                         <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i>Porur, Chennai</span></div>
+                                    class="icon-location icon"></i> </span></div>
                         <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">Siva Homes</h3>
                         <p class="main_text" data-aos="fade-up" data-aos-delay="100">We are thrilled to introduce our
                             latest project, Siva Homes in Porur, Chennai! With a 2400 sqft land area and a spacious 3200
@@ -177,13 +481,14 @@
                 </li>
             </ul>
         </div>
-    </main>
+    </main> -->
+    
     <footer class="footer primary-bg">
         <div class="container">
             <div class="footer_main">
                 <div class="footer_main-block">
                     <a class="brand" href="index.php"><img class="brand_logo" src="img/logo/logo.png"
-                            alt="Axial Construct" /></a>
+                            alt="Axial Construct"/></a>
                     <p class="footer_main-block_subtitle
                         footer_main-block_subtitle--brand">Verna Engineering
                         is the one-stop-solution for all of your land
