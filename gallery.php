@@ -11,6 +11,7 @@
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
     <link rel="stylesheet" href="css/gallery-grid.min.css">
     <link rel="stylesheet" href="css/floatbutton.min.css">
+    <link rel=stylesheet href=css/gallery-masonry.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
 </head>
 
@@ -68,117 +69,138 @@
     </header>
     <main class="gallery section">
         <div class="container">
-            <ul class="gallery_grid" data-role="gallery">
-                
-            <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 13-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 13-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
-                        </div> -->
-                    </a>
+        <ul class=gallery_filters>
+                <li class=list-item><a data-target=all class="gallery_filters-filter current" href=#>All</a></li>
+                <li class=list-item><a data-target=construction class=gallery_filters-filter href=#>On Going</a>
                 </li>
-                <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 14-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 14-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 16-50.jpg" data-caption="Prem Nagar, K.K Nagar, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 16-50.jpg" alt="Prem Nagar, K.K Nagar, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Prem Nagar, K.K Nagar, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 1" data-aos="fade-up"><a class="media" href="img/gallery/Asset 1-50.jpg" data-caption="PG Nagar, K.K Nagar, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 1-50.jpg" alt="PG Nagar, K.K Nagar, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">PG Nagar, K.K Nagar, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 3" data-aos="fade-up"><a class="media" href="img/gallery/Asset 3-50.jpg" data-caption="Alagu Nagar, Manachanallur, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 3-50.jpg" alt="Alagu Nagar, Manachanallur, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Alagu Nagar, Manachanallur, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 8" data-aos="fade-up"><a class="media" href="img/gallery/Asset 9-50.jpg" data-caption="Mannivakkam, Chennai." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 9-50.jpg" alt="Mannivakkam, Chennai.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Mannivakkam, Chennai.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 9" data-aos="fade-up"><a class="media" href="img/gallery/Asset 11-50.jpg" data-caption="Alagu Nagar, Manachanallur, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 11-50.jpg" alt="Alagu Nagar, Manachanallur, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Alagu Nagar, Manachanallur, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 2" data-aos="fade-up"><a class="media" href="img/gallery/Asset 2-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 2-50.jpg" alt="Ayapakkam, Chennai.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 6" data-aos="fade-up"><a class="media" href="img/gallery/Asset 7-50.jpg" data-caption="Nerkundram, Chennai." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 7-50.jpg" alt="Nerkundram, Chennai.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Nerkundram, Chennai.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 4" data-aos="fade-up"><a class="media" href="img/gallery/Asset 5-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 5-50.jpg" alt="Ayapakkam, Chennai.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 7" data-aos="fade-up"><a class="media" href="img/gallery/Asset 8-50.jpg" data-caption="Ayapakkam, Chennai." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 8-50.jpg" alt="Ayapakkam, Chennai.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">Ayapakkam, Chennai.</span>
-                        </div> -->
-                    </a>
-                </li>
-                <li class="gallery_item 8" data-aos="fade-up"><a class="media" href="img/gallery/Asset 12-50.jpeg" data-caption="CKP Garden Plot No.5, Trichy." data-role="gallery-link">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 12-50.jpeg" alt="CKP Garden Plot No.5, Trichy.">
-                        </picture>
-                        <!-- <div class="overlay">
-                            <span class="overlay_label">CKP Garden, Plot No.5, Trichy.</span>
-                        </div> -->
-                    </a>
-                </li>
+                <li class=list-item><a data-target=electrical class=gallery_filters-filter href=#>Up Coming</a></li>
+                <li class=list-item><a data-target=process class=gallery_filters-filter href=#>Completed</a></li>
             </ul>
+            <div class=gallery_masonry data-role=gallery>
+                <figure class=gallery_masonry-item data-groups='["construction", "metallurgy"]'><a
+                        class="aspect aspect--1x1" href=img/gallery/10full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/10.webp srcset=img/gallery/10.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/10.jpg src=img/gallery/10.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["special", "electrical"]'><a
+                        class="aspect aspect--13x9" href=img/gallery/06full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/06.webp srcset=img/gallery/06.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/06.jpg src=img/gallery/06.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "metallurgy"]'><a
+                        class="aspect aspect--13x9" href=img/gallery/02full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/02.webp srcset=img/gallery/02.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/02.jpg src=img/gallery/02.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--13x9"
+                        href=img/gallery/13full.jpg data-caption="Image caption" data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/13.webp srcset=img/gallery/13.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/13.jpg src=img/gallery/13.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--1x1"
+                        href=img/gallery/15full.jpg data-caption="Image caption" data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/15.webp srcset=img/gallery/15.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/15.jpg src=img/gallery/15.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--13x9"
+                        href=img/gallery/14full.jpg data-caption="Image caption" data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/14.webp srcset=img/gallery/14.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/14.jpg src=img/gallery/14.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["chemistry", "special", "construction", "electrical"]'>
+                    <a class="aspect aspect--1x1" href=img/gallery/16full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/16.webp srcset=img/gallery/16.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/16.jpg src=img/gallery/16.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "electrical"]'><a
+                        class="aspect aspect--13x9" href=img/gallery/17full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/17.webp srcset=img/gallery/17.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/17.jpg src=img/gallery/17.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "construction"]'><a
+                        class="aspect aspect--13x9" href=img/gallery/18full.jpg data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <source data-srcset=img/gallery/18.webp srcset=img/gallery/18.webp type=image/webp><img
+                                    class=lazy data-src=img/gallery/18.jpg src=img/gallery/18.jpg alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+            </div>
         </div>
     </main>
     <footer class="footer primary-bg">
