@@ -3,7 +3,7 @@
 .iklan {
   border-style: solid;
   border-width: 1px;
-  border-color: #6e9243;
+  border-color: #ff3040;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -21,9 +21,9 @@
 }
 @-webkit-keyframes glowing {
   from {
-    box-shadow: 0 0 15px #fff, 0 0 15px #fff, 0 0 15px #f0f, 0 0 15px #0ff, 0 0 15px #51a8b1, 0 0 15px #51a8b1, 0 0 15px #51a8b1;
+    box-shadow: 0 0 15px #fff, 0 0 15px #fff, 0 0 15px #129cf7, 0 0 15px #0ff, 0 0 15px #51a8b1, 0 0 15px #51a8b1, 0 0 15px #51a8b1;
   }
   to {
-    box-shadow: 0 0 15px #fff, 0 0 15px #8eb344, 0 0 15px #8eb344, 0 0 15px #8eb344, 0 0 15px #8eb344, 0 0 15px #8eb344, 0 0 15px #8eb344;
+    box-shadow: 0 0 15px #fff, 0 0 15px #ff3040, 0 0 15px #ff3040, 0 0 15px #ff3040, 0 0 15px #ff3040, 0 0 15px #ff3040, 0 0 15px #ff3040;
   }
 }

@@ -82,7 +82,7 @@
                             <picture>
                                 <source data-srcset=img/singleproject.jpg srcset=img/singleproject.jpg
                                     type=image/webp><img class=lazy data-src=img/singleproject.jpg
-                                    src=img/singleproject.jpg alt="Fresh Concept Construction Renovation"></picture>
+                                    src=img/singleproject.jpg alt="Fresh Concept Construction "></picture>
                         </div>
                         <h3 class=about_article-header>Description</h3>
                         <p class=about_article-text>Welcome to Verna Construction's showcase of the Prem Nagar - Duplex Villa project, nestled in the heart of Prem Nagar, Trichy. With a land area of 1250 square feet and a spacious construction area of 1400 square feet, this duplex villa exemplifies our commitment to excellence in construction and engineering.</p>
@@ -160,49 +160,49 @@
         </div>
         <div class="gallery presentation" data-role=gallery style="display: flex;">
             <div class=gallery_item><a class=media href=img/booknow/01.jpg
-                    data-caption="Fresh Concept Construction Renovation" data-role=gallery-link>
+                    data-caption="Fresh Concept Construction " data-role=gallery-link>
                     <picture>
                         <source data-srcset=img/booknow/01.jpg srcset=img/booknow/01.jpg type=image/webp><img class=lazy
                             data-src=img/booknow/01.jpg src=img/booknow/01.jpg alt=@@caption></picture>
                     <div class=overlay>
                         <div class="overlay_header section_header"><span class=subtitle>Our gallery</span></div>
-                        <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                        <h4 class=overlay_caption>Fresh Concept Construction </h4><span
                             class=overlay_label>Special Projects</span>
                     </div>
                 </a>
             </div>
             <div class=gallery_item><a class=media href=img/booknow/02.jpg
-                    data-caption="Fresh Concept Construction Renovation" data-role=gallery-link>
+                    data-caption="Fresh Concept Construction " data-role=gallery-link>
                     <picture>
                         <source data-srcset=img/booknow/02.jpg srcset=img/booknow/02.jpg type=image/webp><img class=lazy
                             data-src=img/booknow/02.jpg src=img/booknow/02.jpg alt=@@caption></picture>
                     <div class=overlay>
                         <div class="overlay_header section_header"><span class=subtitle>Our gallery</span></div>
-                        <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                        <h4 class=overlay_caption>Fresh Concept Construction </h4><span
                             class=overlay_label>Special Projects</span>
                     </div>
                 </a>
             </div>
             <div class=gallery_item><a class=media href=img/booknow/01.jpg
-                    data-caption="Fresh Concept Construction Renovation" data-role=gallery-link>
+                    data-caption="Fresh Concept Construction " data-role=gallery-link>
                     <picture>
                         <source data-srcset=img/booknow/01.jpg srcset=img/booknow/01.jpg type=image/webp><img class=lazy
                             data-src=img/booknow/01.jpg src=img/booknow/01.jpg alt=@@caption></picture>
                     <div class=overlay>
                         <div class="overlay_header section_header"><span class=subtitle>Our gallery</span></div>
-                        <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                        <h4 class=overlay_caption>Fresh Concept Construction </h4><span
                             class=overlay_label>Special Projects</span>
                     </div>
                 </a>
             </div>
             <div class=gallery_item><a class=media href=img/booknow/02.jpg
-                    data-caption="Fresh Concept Construction Renovation" data-role=gallery-link>
+                    data-caption="Fresh Concept Construction " data-role=gallery-link>
                     <picture>
                         <source data-srcset=img/booknow/02.jpg srcset=img/booknow/02.jpg type=image/webp><img class=lazy
                             data-src=img/booknow/02.jpg src=img/booknow/02.jpg alt=@@caption></picture>
                     <div class=overlay>
                         <div class="overlay_header section_header"><span class=subtitle>Our gallery</span></div>
-                        <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                        <h4 class=overlay_caption>Fresh Concept Construction </h4><span
                             class=overlay_label>Special Projects</span>
                     </div>
                 </a>
@@ -267,7 +267,7 @@
                         <li class="list-item">
                             <a class="nav-link link" href="service.php" data-page="services"><i
                                     class="icon-chevron_right icon"></i>
-                                Renovation Contractor</a>
+                                    Renovation Contractor</a>
                         </li>
                         <li class="list-item">
                             <a class="nav-link link" href="service.php" data-page="blog"><i

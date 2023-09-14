@@ -59,18 +59,18 @@
     </header>
     <main>
         <section class="hero primary-bg">
-            <div class="hero_deco">
+            <div class="hero_media" data-aos="fade-up" data-aos-delay="50">
                 <picture>
                     <source data-srcset="img/plan.webp" srcset="img/plan.webp" type="image/webp" />
                     <img class="lazy" data-src="img/plan.png" src="img/plan.png" alt="media" />
                 </picture>
             </div>
             <div class="container">
-                <div class="hero_media" data-aos="fade-up" data-aos-delay="50">
+                <div class="hero_deco">
                     <picture>
-                        <source data-srcset="img/bg/bg-2.png" srcset="img/bg/bg-2.png" type="image/webp" />
-                        <img class="lazy" data-src="img/bg/bg-2.png" src="img/bg/bg-2.png" class="home-img"
-                            alt="media" style="margin-top: 300px;"/>
+                    <source data-srcset="img/bg/bg-2.png" srcset="img/bg/bg-2.png" type="image/webp" />
+                    <img class="lazy" data-src="img/bg/bg-2.png" src="img/bg/bg-2.png" class="home-img" alt="media"
+                        style="margin-top: 150px;" />
                     </picture>
                 </div>
                 <div class="hero_header section_header">
@@ -94,13 +94,14 @@
                             <span class="label">Happy Customers</span>
                         </div>
                     </div>
-                    <div class="card glowing-circle" data-aos="fade-right" >
+                    <div class="card glowing-circle" data-aos="fade-right">
                         <span class="card_underlay"></span>
                         <div class="wrapper">
                             <h4 class="title">Duplex Villa </h4>
                             <span class="square highlight">1250 Sq.ft </span>
                             <span class="info">Near Panjapur, Trichy</span>
-                            <a class="link link-arrow" href="booknow.php" target="_blank">Book Now<i class="icon-arrow_right icon"></i></a>
+                            <a class="link link-arrow" href="booknow.php" target="_blank">Book Now<i
+                                    class="icon-arrow_right icon"></i></a>
                         </div>
                         <picture>
                             <img class="lazy" src="img/building_mini.png" alt="media" />
@@ -833,11 +834,13 @@
                     </div>
                 </div>
             </div>
-        </div>   
+        </div>
         <div class="iklan">
             <p style="font-size: 16px; font-weight: 400;">For latest related updates follow us now.</p>
-            <a href="https://www.instagram.com/verna.engineers.contractors/" target="_blank"><button style="background-color: #129cf7; font-size: 14px; padding: 10px; margin-top:8px; font-weight: 600; border-radius: .25rem; color: white;"><span>Facebook</span></button></a>
-            <a href="https://www.instagram.com/verna_engineers_contractors/" target="_blank"><button style="background-color: #ff3040; font-size: 14px; padding: 10px; margin-top:8px; font-weight: 600; border-radius: .25rem; color: white;"><span>Instagram</span></button></a>
+            <a href="https://www.instagram.com/verna.engineers.contractors/" target="_blank"><button
+                    style="background-color: #129cf7; font-size: 14px; padding: 10px; margin-top:8px; font-weight: 600; border-radius: .25rem; color: white;"><span>Facebook</span></button></a>
+            <a href="https://www.instagram.com/verna_engineers_contractors/" target="_blank"><button
+                    style="background-color: #ff3040; font-size: 14px; padding: 10px; margin-top:8px; font-weight: 600; border-radius: .25rem; color: white;"><span>Instagram</span></button></a>
         </div>
     </main>
     <footer class="footer primary-bg">
@@ -850,7 +853,8 @@
                             footer_main-block_subtitle--brand">Verna Engineering
                         is the one-stop-solution for all of your land
                         development needs. If you are struggling to bring
-                        your dreams to life, look no further! Proud member of Builder association of india (BAI)</p>
+                        your dreams to life, look no further! Proud member of Builder association of india (BAI)
+                    </p>
                 </div>
                 <div class="footer_main-block">
                     <h4 class="footer_main-block_title">Quick Link</h4>
@@ -903,7 +907,7 @@
                         <li class="list-item">
                             <a class="nav-link link" href="service.php" data-page="blog"><i
                                     class="icon-chevron_right icon"></i>
-                                    Interior Designer</a>
+                                Interior Designer</a>
                         </li>
                         <li class="list-item">
                             <a class="nav-link link" href="service.php" data-page="services"><i
@@ -927,7 +931,8 @@
                     <div class="group-wrapper">
                         <i class="icon-location icon"></i>
                         <div class="group text-justify">
-                            <span>No. 3, B. P Complex, Opp. Velammal bodhi campus, Chinthamani nagar, Olaiyur main road,
+                            <span>No. 3, B. P Complex, Opp. Velammal bodhi campus, Chinthamani nagar, Olaiyur
+                                main road,
                                 Udayanpatti, Trichy - 21</span>
                         </div>
                     </div>
@@ -950,12 +955,12 @@
             </div>
             <div class="footer_secondary">
                 <p class="footer_secondary-copyright" style="margin-bottom: 30px;">
-                    <span>&copy; <span id="currentYear"></span> <a href="https://www.zworktechnology.com/">Zwork Technologies</a></span>
+                    <span>&copy; <span id="currentYear"></span> <a href="https://www.zworktechnology.com/">Zwork
+                            Technologies</a></span>
                 </p>
                 <ul class="socials">
                     <li class="socials_item">
-                        <a class="socials_item-link"
-                            href="https://www.facebook.com/verna.engineers.contractors"
+                        <a class="socials_item-link" href="https://www.facebook.com/verna.engineers.contractors"
                             target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i
                                 class="icon-facebook"></i></a>
                     </li>
@@ -976,7 +981,8 @@
     <button id="scrollTrigger" type="button">
         <i class="icon icon-arrow_right"></i>
     </button>
-    <script id="www-widgetapi-script" src="../yts/jsbin/www-widgetapi-vflS50iB-/www-widgetapi.js" async=""></script>
+    <script id="www-widgetapi-script" src="../yts/jsbin/www-widgetapi-vflS50iB-/www-widgetapi.js" async="">
+    </script>
     <script src="../player_api"></script>
     <script src="js/common.min.js"></script>
     <script src="js/index.min.js"></script>
@@ -990,6 +996,10 @@
         }
         gtag("js", new Date());
         gtag("config", "undefined");
+    </script>
+    <script>
+        const myModal = new mdb.Modal(document.getElementById('myModal'), {})
+        myModal.toggle()
     </script>
 </body>
 
