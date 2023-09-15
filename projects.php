@@ -489,8 +489,8 @@
             </div>
         </div>                 
           
-        </div>
-    </main> -->
+        </div> -->
+</main>
 
 
         <footer class="footer primary-bg">
