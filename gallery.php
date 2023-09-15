@@ -9,7 +9,6 @@
     <link rel="stylesheet preload" as="style" href="css/preload.min.css">
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
-    <link rel="stylesheet" href="css/gallery-grid.min.css">
     <link rel="stylesheet" href="css/floatbutton.min.css">
     <link rel=stylesheet href=css/gallery-masonry.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
@@ -85,7 +84,6 @@
                 <li class=list-item><a data-target=Completed class=gallery_filters-filter href=#>Completed</a></li>
                 <li class=list-item><a data-target=Upcoming class=gallery_filters-filter href=#>Upcoming</a></li>
             </ul>
-            <div class=container>
                 <div class=gallery_masonry data-role=gallery>
                     <figure class=gallery_masonry-item data-groups='["Completed"]'><a
                         class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
@@ -310,8 +308,7 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                    </a></figure>    
-                </div>                                                                                        
-            </div>
+                </div> 
         </div>
     </main>
 
@@ -453,8 +450,10 @@
     <script id="www-widgetapi-script" src="../yts/jsbin/www-widgetapi-vflS50iB-/www-widgetapi.js" async=""></script>
     <script src="../player_api"></script>
     <script src="js/common.min.js"></script>
+    <script src=js/masonry.min.js></script>
     <script src="js/demo.min.js"></script>
     <script async="" src="../gtag/js?id=undefined"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=undefined"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
