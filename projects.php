@@ -75,9 +75,124 @@
     </header>
 
     <main class="projects section">
-    <div class="container">
+
+        <div class="container">
+            <ul class="projects_list">
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/05.webp" srcset="img/projects/05.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/05.jpg" src="img/projects/05.jpg"
+                                alt="Food Factory Design and Construction" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Food Factory
+                                Design and Construction</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Karli Turnpike Apt. 993 Port
+                                Valentine </span><a class="link link-arrow aos-init aos-animate"
+                                href="single-project.html" data-aos="fade-in" data-aos-delay="50">Details <i
+                                    class="icon-arrow_right icon"></i></a></div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/02.webp" srcset="img/projects/02.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/02.jpg" src="img/projects/02.jpg"
+                                alt="Fresh Concept Construction Renovation" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Fresh Concept
+                                Construction Renovation</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Daphne Way New Reaganmouth
+                            </span><a class="link link-arrow aos-init aos-animate" href="single-project.html"
+                                data-aos="fade-in" data-aos-delay="50">Details <i class="icon-arrow_right icon"></i></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/06.webp" srcset="img/projects/06.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/06.jpg" src="img/projects/06.jpg"
+                                alt="Reconstruction of Old Factory Building" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Reconstruction
+                                of Old Factory Building</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Schoen Ramp Suite 607 Borerton
+                            </span><a class="link link-arrow aos-init aos-animate" href="single-project.html"
+                                data-aos="fade-in" data-aos-delay="50">Details <i class="icon-arrow_right icon"></i></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/03.webp" srcset="img/projects/03.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/03.jpg" src="img/projects/03.jpg"
+                                alt="Installation and Creation of a Supply System" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Installation
+                                and Creation of a Supply System</span> <span
+                                class="divider divider--line aos-init aos-animate" data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Ernest Mount Bartonstad </span><a
+                                class="link link-arrow aos-init aos-animate" href="single-project.html"
+                                data-aos="fade-in" data-aos-delay="50">Details <i class="icon-arrow_right icon"></i></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/01.webp" srcset="img/projects/01.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/01.jpg" src="img/projects/01.jpg"
+                                alt="Jazzy Elite Construction Shopping Center" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Jazzy Elite
+                                Construction Shopping Center</span> <span
+                                class="divider divider--line aos-init aos-animate" data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> 100 Sunrise Ct Hamel, Minnesota
+                            </span><a class="link link-arrow aos-init aos-animate" href="single-project.html"
+                                data-aos="fade-in" data-aos-delay="50">Details <i class="icon-arrow_right icon"></i></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/07.webp" srcset="img/projects/07.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/07.jpg" src="img/projects/07.jpg"
+                                alt="Fresh Concept Construction Renovation" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Fresh Concept
+                                Construction Renovation</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Claudie Green Suite 698 Avisstad
+                            </span><a class="link link-arrow aos-init aos-animate" href="single-project.html"
+                                data-aos="fade-in" data-aos-delay="50">Details <i class="icon-arrow_right icon"></i></a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+
+        <!-- <div class="container">
         <div class=row>
-            <div class="col-4">                         
+            <div class="col-4 ">                         
                 <li class=projects_list-item>
                     <div class=media data-aos=zoom-in-right>
                         <picture>
@@ -376,262 +491,159 @@
         </div>                 
           
         </div>
-    </main>
-    <!-- <main class="projects section">
-        <div class="container">
-            <ul class="projects_list">
-                <li class="projects_list-item">
-                    <div class="media" data-aos="zoom-in-right">
-                        <picture>
-                            <img class="lazy" src="img/projects/p8.jpg" alt="Food Factory Design and Construction">
-                        </picture>
-                    </div>
-                    <div class="main">
-                        <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i>Manikandam, Trichy</span></div>
-                        <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">VRL Logistics</h3>
-                        <p class="main_text" data-aos="fade-up" data-aos-delay="100">We are excited to announce that
-                            Verna Construction and Jaiwin Builders have collaborated to create a unique and impressive
-                            warehouse spanning 25,760 square feet. This joint effort brings together the expertise,
-                            experience, and resources of two leading construction companies to deliver exceptional
-                            results. Our team of experienced professionals has worked closely together to design and build a
-                            warehouse that meets the highest standards of quality, functionality, and efficiency. We use
-                            the latest materials and technologies to ensure that our warehouse is durable, secure, and
-                            meets the specific needs of our client.</p><a
-                            class="link link-arrow" href="#" data-aos="fade-in" data-aos-delay="50">8 Months <i
-                                class="icon-arrow_right icon"></i></a>
-                    </div>
-                </li>
-                <li class="projects_list-item">
-                    <div class="media" data-aos="zoom-in-right">
-                        <picture>
-                            <img class="lazy" src="img/gallery/Asset 6-50.jpg"
-                                alt="Food Factory Design and Construction">
-                        </picture>
-                    </div>
-                    <div class="main">
-                        <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i>Trichy</span></div>
-                        <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">Sathya Homes</h3>
-                        <p class="main_text" data-aos="fade-up" data-aos-delay="100">Sathaya Homes, located in the
-                            bustling city of Trichy, is a beautiful new residential development that is sure to impress.
-                            With a spacious 2400 sqft of living area, this home is the perfect combination of comfort
-                            and style. From its prime location to its high-quality construction and modern design,
-                            Sathaya Homes has everything you need for a comfortable and relaxed living experience.</p><a
-                            class="link link-arrow" href="#" data-aos="fade-in" data-aos-delay="50">10 Months <i
-                                class="icon-arrow_right icon"></i></a>
-                    </div>
-                </li>
-                <li class="projects_list-item">
-                    <div class="media" data-aos="zoom-in-right">
-                        <picture>
-                            <img class="lazy" src="img/projects/p3.jpg" alt="Food Factory Design and Construction">
-                        </picture>
-                    </div>
-                    <div class="main">
-                        <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i> Ramachandra Nagar, Chennai</span></div>
-                        <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">Virutcham</h3>
-                        <p class="main_text" data-aos="fade-up" data-aos-delay="100">This large 4800 square feet area
-                            has 6 flats and is furnished with all the amenities required. This is the ideal option for a
-                            relaxing and convenient stay thanks to its first-rate amenities and proximity.</p><a
-                            class="link link-arrow" href="#" data-aos="fade-in" data-aos-delay="50">15 Months <i
-                                class="icon-arrow_right icon"></i></a>
-                    </div>
-                </li>
-                <li class="projects_list-item">
-                    <div class="media" data-aos="zoom-in-right">
-                        <picture>
-                            <img class="lazy" src="img/projects/p7.jpg" alt="Food Factory Design and Construction">
-                        </picture>
-                    </div>
-                    <div class="main">
-                        <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i> Anna Nagar Main Rd, Natham</span></div>
-                        <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">Landis Matric. higher secondary
-                            School</h3>
-                        <p class="main_text" data-aos="fade-up" data-aos-delay="100">We are proud to announce the
-                            completion of our latest project, the Science Lab at Landis Matric Higher secondary
-                            School! The lab is a spacious 2800 sqft facility equipped with state-of-the-art equipment
-                            for physics, chemistry, and computer science studies. This new addition will provide
-                            students with hands-on learning opportunities and access to the latest technology, allowing
-                            them to further their scientific knowledge and skills. Come visit us and see the
-                            transformation we have brought to the school!</p><a class="link link-arrow" href="#"
-                            data-aos="fade-in" data-aos-delay="50">8 Months <i class="icon-arrow_right icon"></i></a>
-                    </div>
-                </li>
-                <li class="projects_list-item">
-                    <div class="media" data-aos="zoom-in-right">
-                        <picture>
-                            <img class="lazy" src="img/projects/p2.jpg" alt="Food Factory Design and Construction">
-                        </picture>
-                    </div>
-                    <div class="main">
-                        <div class="main_info"><span class="location" data-aos="fade-up"><i
-                                    class="icon-location icon"></i> </span></div>
-                        <h3 class="main_title" data-aos="fade-up" data-aos-delay="50">Siva Homes</h3>
-                        <p class="main_text" data-aos="fade-up" data-aos-delay="100">We are thrilled to introduce our
-                            latest project, Siva Homes in Porur, Chennai! With a 2400 sqft land area and a spacious 3200
-                            sqft building area, this new home is the perfect place for families and individuals to
-                            create new memories and live comfortably. From its prime location to its exceptional design
-                            and quality finishes, Siva Homes has everything you need for a happy and harmonious living
-                            experience.</p><a class="link link-arrow" href="#" data-aos="fade-in" data-aos-delay="50">12
-                            Months <i class="icon-arrow_right icon"></i></a>
-                    </div>
-                </li>
-            </ul>
-        </div>
     </main> -->
-    
-    <footer class="footer primary-bg">
-        <div class="container">
-            <div class="footer_main">
-                <div class="footer_main-block">
-                    <a class="brand" href="index.php"><img class="brand_logo" src="img/logo/logo.png"
-                            alt="Axial Construct"/></a>
-                    <p class="footer_main-block_subtitle
-                        footer_main-block_subtitle--brand">Verna Engineering
-                        is the one-stop-solution for all of your land
-                        development needs. If you are struggling to bring
-                        your dreams to life, look no further! Proud member of Builder association of india (BAI)</p>
-                </div>
-                <div class="footer_main-block">
-                    <h4 class="footer_main-block_title">Quick Link</h4>
-                    <ul class="footer_main-block_nav">
-                        <li class="list-item">
-                            <a class="nav-link link" href="about.php" data-page="about"><i
-                                    class="icon-chevron_right icon"></i>
-                                About</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
-                                Services</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="projects.php" data-page="projects"><i
-                                    class="icon-chevron_right icon"></i>
-                                Projects</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="gallery.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
-                                Gallery</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="contacts.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
-                                Contact Us</a>
-                        </li>
-                        
-                        <li class="list-item">
-                            <a class="nav-link link" href="privacy_policy.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
-                                Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="footer_main-block">
-                    <h4 class="footer_main-block_title">Services</h4>
-                    <ul class="footer_main-block_nav">
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="about"><i
-                                    class="icon-chevron_right icon"></i>
-                                Licensed Surveyor</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
-                                    Renovation Contractor</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
-                                    Interior Designer</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
-                                Real Estate</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="projects"><i
-                                    class="icon-chevron_right icon"></i>
-                                Building Contractor</a>
-                        </li>
-                        <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
-                                Promoter</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="footer_main-block">
-                    <h4 class="footer_main-block_title">Contact</h4>
-                    <div class="group-wrapper">
-                        <i class="icon-location icon"></i>
-                        <div class="group text-justify">
-                            <span>No. 3, B. P Complex, Opp. Velammal bodhi campus, Chinthamani nagar, Olaiyur main road,
-                                Udayanpatti, Trichy - 21</span>
-                        </div>
-                    </div>
-                    <div class="group-wrapper" style="margin-bottom: 20px;">
-                        <i class="icon-call icon"></i>
-                        <div class="group">
-                            <a href="tel:+919043010199" style="margin-bottom: 5px;">+91 90430 10199</a>
-                            <a href="tel:+917904678950">+91 79046 78950</a>
-                        </div>
-                    </div>
-                    <div class="group-wrapper">
-                        <i class="icon-call icon"></i>
-                        <div class="group">
-                            <a href="mailto:info@vernaconstruction.com"
-                                style="margin-bottom: 5px;">info@vernaconstruction.com</a>
-                            <a href="mailto:vernaconstruction@gmail.com">vernaconstruction@gmail.com</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer_secondary">
-                <p class="footer_secondary-copyright">
-                    <span>&copy; <span id="currentYear"></span> <a href="https://www.zworktechnology.com/">Zwork Technologies</a></span>
-                </p>
-                <ul class="socials">
-                    <li class="socials_item">
-                        <a class="socials_item-link"
-                            href="https://www.facebook.com/verna.engineers.contractors"
-                            target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i
-                                class="icon-facebook"></i></a>
-                    </li>
-                    <li class="socials_item">
-                        <a class="socials_item-link" href="https://www.instagram.com/verna_engineers_contractors/"
-                            target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i
-                                class="icon-instagram"></i></a>
-                    </li>
-                    <li class="socials_item">
-                        <a class="socials_item-link" href="https://api.whatsapp.com/send/?phone=%2B919043010199"
-                            target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i
-                                class="icon-whatsapp"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </footer>
-    <button id="scrollTrigger" type="button"><i class="icon icon-arrow_right"></i></button>
-    <script id="www-widgetapi-script" src="../yts/jsbin/www-widgetapi-vflS50iB-/www-widgetapi.js" async=""></script>
-    <script src="../player_api"></script>
-    <script src="js/common.min.js"></script>
-    <script src="js/demo.min.js"></script>
-    <script async="" src="../gtag/js?id=undefined"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'undefined');
-    </script>
+
+        <footer class="footer primary-bg">
+            <div class="container">
+                <div class="footer_main">
+                    <div class="footer_main-block">
+                        <a class="brand" href="index.php"><img class="brand_logo" src="img/logo/logo.png"
+                                alt="Axial Construct" /></a>
+                        <p class="footer_main-block_subtitle
+                        footer_main-block_subtitle--brand">Verna Engineering
+                            is the one-stop-solution for all of your land
+                            development needs. If you are struggling to bring
+                            your dreams to life, look no further! Proud member of Builder association of india (BAI)</p>
+                    </div>
+                    <div class="footer_main-block">
+                        <h4 class="footer_main-block_title">Quick Link</h4>
+                        <ul class="footer_main-block_nav">
+                            <li class="list-item">
+                                <a class="nav-link link" href="about.php" data-page="about"><i
+                                        class="icon-chevron_right icon"></i>
+                                    About</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="services"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Services</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="projects.php" data-page="projects"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Projects</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="gallery.php" data-page="blog"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Gallery</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="contacts.php" data-page="blog"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Contact Us</a>
+                            </li>
+
+                            <li class="list-item">
+                                <a class="nav-link link" href="privacy_policy.php" data-page="blog"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Privacy Policy</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer_main-block">
+                        <h4 class="footer_main-block_title">Services</h4>
+                        <ul class="footer_main-block_nav">
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="about"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Licensed Surveyor</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="services"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Renovation Contractor</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="blog"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Interior Designer</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="services"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Real Estate</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="projects"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Building Contractor</a>
+                            </li>
+                            <li class="list-item">
+                                <a class="nav-link link" href="service.php" data-page="blog"><i
+                                        class="icon-chevron_right icon"></i>
+                                    Promoter</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer_main-block">
+                        <h4 class="footer_main-block_title">Contact</h4>
+                        <div class="group-wrapper">
+                            <i class="icon-location icon"></i>
+                            <div class="group text-justify">
+                                <span>No. 3, B. P Complex, Opp. Velammal bodhi campus, Chinthamani nagar, Olaiyur main
+                                    road,
+                                    Udayanpatti, Trichy - 21</span>
+                            </div>
+                        </div>
+                        <div class="group-wrapper" style="margin-bottom: 20px;">
+                            <i class="icon-call icon"></i>
+                            <div class="group">
+                                <a href="tel:+919043010199" style="margin-bottom: 5px;">+91 90430 10199</a>
+                                <a href="tel:+917904678950">+91 79046 78950</a>
+                            </div>
+                        </div>
+                        <div class="group-wrapper">
+                            <i class="icon-call icon"></i>
+                            <div class="group">
+                                <a href="mailto:info@vernaconstruction.com"
+                                    style="margin-bottom: 5px;">info@vernaconstruction.com</a>
+                                <a href="mailto:vernaconstruction@gmail.com">vernaconstruction@gmail.com</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_secondary">
+                    <p class="footer_secondary-copyright">
+                        <span>&copy; <span id="currentYear"></span> <a href="https://www.zworktechnology.com/">Zwork
+                                Technologies</a></span>
+                    </p>
+                    <ul class="socials">
+                        <li class="socials_item">
+                            <a class="socials_item-link" href="https://www.facebook.com/verna.engineers.contractors"
+                                target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i
+                                    class="icon-facebook"></i></a>
+                        </li>
+                        <li class="socials_item">
+                            <a class="socials_item-link" href="https://www.instagram.com/verna_engineers_contractors/"
+                                target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i
+                                    class="icon-instagram"></i></a>
+                        </li>
+                        <li class="socials_item">
+                            <a class="socials_item-link" href="https://api.whatsapp.com/send/?phone=%2B919043010199"
+                                target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i
+                                    class="icon-whatsapp"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+        <button id="scrollTrigger" type="button"><i class="icon icon-arrow_right"></i></button>
+        <script id="www-widgetapi-script" src="../yts/jsbin/www-widgetapi-vflS50iB-/www-widgetapi.js" async=""></script>
+        <script src="../player_api"></script>
+        <script src="js/common.min.js"></script>
+        <script src="js/demo.min.js"></script>
+        <script async="" src="../gtag/js?id=undefined"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'undefined');
+        </script>
 </body>
 
 </html>
