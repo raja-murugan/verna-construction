@@ -1960,12 +1960,12 @@ html[dir=rtl] #scrollTrigger {
     .hero_deco {
         position         : absolute;
         display          : block;
-        opacity          : .5;
-        -webkit-transform: rotate(154deg);
-        -ms-transform    : rotate(154deg);
-        transform        : rotate(154deg);
-        max-width        : 50%;
-        bottom           : -10%;
+        /* opacity          : .5; */
+        /* -webkit-transform: rotate(154deg); */
+        /* -ms-transform    : rotate(154deg); */
+        /* transform        : rotate(154deg); */
+        /* max-width        : 50%; */
+        bottom           : -4%;
         left             : -10%
     }
 
@@ -2109,7 +2109,7 @@ html[dir=rtl] #scrollTrigger {
 
 @media screen and (min-width:1023.98px) {
     .hero_deco {
-        bottom: -20%
+        /* bottom: -20% */
     }
 
     .hero_media {
@@ -2183,8 +2183,8 @@ html[dir=rtl] #scrollTrigger {
 
     .hero_deco {
         max-width: 60%;
-        left     : -15%;
-        bottom   : -35%
+        /* left     : -15%; */
+        /* bottom   : -35% */
     }
 
     .hero_media {
