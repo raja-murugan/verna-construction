@@ -75,8 +75,7 @@
     </header>
 
     <main class="projects section">
-
-        <div class="container">
+        <div class="container" style="padding: 100px 0px;">
             <ul class="projects_list">
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
