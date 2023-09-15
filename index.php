@@ -94,7 +94,7 @@
                             <span class="label">Happy Customers</span>
                         </div>
                     </div>
-                    <div class="card glowing-circle" data-aos="fade-right" >
+                    <!--div class="card glowing-circle" data-aos="fade-right" >
                         <span class="card_underlay"></span>
                         <div class="wrapper">
                             <h4 class="title">Duplex Villa </h4>
@@ -105,7 +105,7 @@
                         <picture>
                             <img class="lazy" src="img/building_mini.png" alt="media" />
                         </picture>
-                    </div>
+                    </div-->
                 </div>
             </div>
         </section>
