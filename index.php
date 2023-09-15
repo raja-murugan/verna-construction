@@ -83,13 +83,13 @@
                     <div class="numbers">
                         <div class="numbers_group">
                             <h2 class="countNum number" data-suffix="+" data-value="22">
-                                0
+                             0   
                             </h2>
                             <span class="label">Years of experience in building relationship</span>
                         </div>
                         <div class="numbers_group">
                             <h2 class="countNum number" data-suffix="%" data-value="100">
-                                0
+                              0  
                             </h2>
                             <span class="label">Happy Customers</span>
                         </div>

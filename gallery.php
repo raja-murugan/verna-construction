@@ -80,22 +80,19 @@
         <div class=container>
             <ul class=gallery_filters>
                 <li class=list-item><a data-target=all class="gallery_filters-filter current" href=#>All</a></li>
-                <li class=list-item><a data-target=construction class=gallery_filters-filter href=#>Construction</a>
                 </li>
-                <li class=list-item><a data-target=electrical class=gallery_filters-filter href=#>Electrical</a></li>
-                <li class=list-item><a data-target=process class=gallery_filters-filter href=#>Process</a></li>
-                <li class=list-item><a data-target=chemistry class=gallery_filters-filter href=#>Chemistry</a></li>
-                <li class=list-item><a data-target=metallurgy class=gallery_filters-filter href=#>Metallurgy</a></li>
-                <li class=list-item><a data-target=special class=gallery_filters-filter href=#>Special Projects</a></li>
+                <li class=list-item><a data-target=Ongoing class=gallery_filters-filter href=#>Ongoing</a></li>
+                <li class=list-item><a data-target=Completed class=gallery_filters-filter href=#>Completed</a></li>
+                <li class=list-item><a data-target=Upcoming class=gallery_filters-filter href=#>Upcoming</a></li>
             </ul>
-            <div class=gallery_masonry data-role=gallery>
-                <figure class=gallery_masonry-item data-groups='["construction", "metallurgy"]'><a
-                        class="aspect aspect--1x1" href=img/gallery/10full.jpg data-caption="Image caption"
+            <div class=container>
+                <div class=gallery_masonry data-role=gallery>
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/10.webp srcset=img/gallery/10.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/10.jpg src=img/gallery/10.jpg alt="Image caption">
+                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -103,13 +100,13 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["special", "electrical"]'><a
-                        class="aspect aspect--13x9" href=img/gallery/06full.jpg data-caption="Image caption"
+                    
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/06.webp srcset=img/gallery/06.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/06.jpg src=img/gallery/06.jpg alt="Image caption">
+                                <image class="lazy" src="img/gallery/Asset 2-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -117,13 +114,13 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "metallurgy"]'><a
-                        class="aspect aspect--13x9" href=img/gallery/02full.jpg data-caption="Image caption"
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/02.webp srcset=img/gallery/02.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/02.jpg src=img/gallery/02.jpg alt="Image caption">
+                                <image class="lazy" src="img/gallery/Asset 3-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -131,52 +128,13 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--13x9"
-                        href=img/gallery/13full.jpg data-caption="Image caption" data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <source data-srcset=img/gallery/13.webp srcset=img/gallery/13.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/13.jpg src=img/gallery/13.jpg alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
-                        </div>
-                    </a></figure>
-                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--1x1"
-                        href=img/gallery/15full.jpg data-caption="Image caption" data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <source data-srcset=img/gallery/15.webp srcset=img/gallery/15.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/15.jpg src=img/gallery/15.jpg alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
-                        </div>
-                    </a></figure>
-                <figure class=gallery_masonry-item data-groups='["construction"]'><a class="aspect aspect--13x9"
-                        href=img/gallery/14full.jpg data-caption="Image caption" data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <source data-srcset=img/gallery/14.webp srcset=img/gallery/14.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/14.jpg src=img/gallery/14.jpg alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
-                        </div>
-                    </a></figure>
-                <figure class=gallery_masonry-item data-groups='["chemistry", "special", "construction", "electrical"]'>
-                    <a class="aspect aspect--1x1" href=img/gallery/16full.jpg data-caption="Image caption"
+            
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/16.webp srcset=img/gallery/16.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/16.jpg src=img/gallery/16.jpg alt="Image caption">
+                                <image class="lazy"src="img/gallery/Asset 4-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -184,13 +142,13 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "electrical"]'><a
-                        class="aspect aspect--13x9" href=img/gallery/17full.jpg data-caption="Image caption"
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/17.webp srcset=img/gallery/17.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/17.jpg src=img/gallery/17.jpg alt="Image caption">
+                                <image class="lazy" src="img/gallery/Asset 5-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -198,13 +156,13 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["chemistry", "process", "construction"]'><a
-                        class="aspect aspect--13x9" href=img/gallery/18full.jpg data-caption="Image caption"
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <source data-srcset=img/gallery/18.webp srcset=img/gallery/18.webp type=image/webp><img
-                                    class=lazy data-src=img/gallery/18.jpg src=img/gallery/18.jpg alt="Image caption">
+                                <image class="lazy"src="img/gallery/Asset 6-50.jpg" alt="Image caption">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -212,6 +170,147 @@
                                 class=overlay_label>Special Projects</span>
                         </div>
                     </a></figure>
+            
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 7-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 8-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 9-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+            
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 10-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 6-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 4-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+            
+                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 13-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 14-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+
+                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                    </a></figure>
+             
+                    <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 16-50.jpg" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
+                                class=overlay_label>Special Projects</span>
+                        </div>
+                   </a></figure>    
+                </div>                                                                                        
             </div>
         </div>
     </main>
