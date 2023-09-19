@@ -98,8 +98,8 @@
                         <span class="card_underlay"></span>
                         <div class="wrapper">
                             <h4 class="title">Near Panjapur, Trichy</h4>
-                            <span class="square highlight">Reserve your</span>
-                            <span class="info">dream home today.</span>
+                            <span class="square highlight">Exclusive Duplex Villa</span>
+                            <span class="info">Act Fast.</span>
                             <a class="link link-arrow" href="booknow.php" target="_blank">Pre-Book Now<i
                                     class="icon-arrow_right icon"></i></a>
                         </div>
