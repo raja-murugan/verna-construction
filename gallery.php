@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/floatbutton.min.css">
     <link rel=stylesheet href=css/gallery-masonry.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
+    <link rel="stylesheet" href="css/projects.min.css" />
 </head>
 
 <body>
@@ -56,15 +57,15 @@
             </button>
         </div>
     </header>
+
     <header class="page primary-bg">
         <div class="container">
-            <div class="section_header"><span class="subtitle
-                        subtitle--extended"><a href="index.php">Home</a></span>
+            <div class="section_header"><span class="subtitle subtitle--extended"><a href="index.php">Home</a></span>
                 <h1 class="title">Our Gallery</h1>
                 <!-- <ul class="breadcrumbs">
-                        <li class="breadcrumbs_item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumbs_item breadcrumbs_item--current"><span>Gallery</span></li>
-                    </ul> -->
+                    <li class="breadcrumbs_item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumbs_item breadcrumbs_item--current"><span>Projects</span></li>
+                </ul> -->
             </div>
         </div>
         <div class="media">
@@ -75,280 +76,356 @@
         </div>
     </header>
 
-    <main class="gallery section">
-        <div class=container>
-            <ul class=gallery_filters>
-                <li class=list-item><a data-target=all class="gallery_filters-filter current" href=#>All</a></li>
+    <main class="projects section">
+        <div class="container" style="padding: 100px 0px;">
+            <ul class="projects_list">
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 13-50.png" srcset="img/gallery/Asset 13-50.png"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-50.png"
+                                src="img/gallery/Asset 13-50.png" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">G+1, North Facing</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i>Prem Nagar, Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
                 </li>
-                <li class=list-item><a data-target=Ongoing class=gallery_filters-filter href=#>Ongoing</a></li>
-                <li class=list-item><a data-target=Completed class=gallery_filters-filter href=#>Completed</a></li>
-                <li class=list-item><a data-target=Upcoming class=gallery_filters-filter href=#>Upcoming</a></li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 13-60.png" srcset="img/gallery/Asset 13-60.png"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-60.png"
+                                src="img/gallery/Asset 13-60.png" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Ground Floor, North Facing</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Prem Nagar, Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 13-70.png" srcset="img/gallery/Asset 13-70.png"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-70.png"
+                                src="img/gallery/Asset 13-70.png" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Ground Floor, South Facing</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Prem Nagar, Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 13-80.png" srcset="img/gallery/Asset 13-80.png"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-80.png"
+                                src="img/gallery/Asset 13-80.png" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">G+1, South Facing</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Prem Nagar, Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 17-50.jpg" srcset="img/gallery/Asset 17-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 17-50.jpg"
+                                src="img/gallery/Asset 17-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">P.G Nagar</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> P.G Nagar, Tiruchirapalli
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 16-50.jpg" srcset="img/gallery/Asset 16-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 16-50.jpg"
+                                src="img/gallery/Asset 16-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Pudukkottai</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Sivapuram, Pudukkottai
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 14-50.jpg" srcset="img/gallery/Asset 14-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 14-50.jpg"
+                                src="img/gallery/Asset 14-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">CKP Garden</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> CKP Garden, KK Nager
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/p8.jpg" srcset="img/projects/p8.jpg" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/p8.jpg" src="img/projects/p8.jpg"
+                                alt="Food Factory Design and Construction" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">VRL
+                                Logistics</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Manikandam, Trichy
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 6-50.jpg" srcset="img/gallery/Asset 6-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 6-50.jpg"
+                                src="img/gallery/Asset 6-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Sathya
+                                Homes</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/p3.jpg" srcset="img/projects/p3.jpg" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/p3.jpg" src="img/projects/p3.jpg"
+                                alt="Reconstruction of Old Factory Building" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Virutcham
+                            </span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Ramachandra Nagar, Chennai
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/p7.jpg" srcset="img/projects/p7.jpg" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/p7.jpg" src="img/projects/p7.jpg"
+                                alt="Installation and Creation of a Supply System" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Landis 
+                                School</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Anna Nagar Main Rd, Natham
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/projects/p2.jpg" srcset="img/projects/p2.jpg" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/projects/p2.jpg" src="img/projects/p2.jpg"
+                                alt="Jazzy Elite Construction Shopping Center" data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Siva
+                                Homes</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Porur, Chennai
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 2-50.jpg" srcset="img/gallery/Asset 2-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 2-50.jpg "
+                                src="img/gallery/Asset 2-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 3-50.jpg" srcset="img/gallery/Asset 3-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 3-50.jpg"
+                                src="img/gallery/Asset 3-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 5-50.jpg" srcset="img/gallery/Asset 5-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 5-50.jpg"
+                                src="img/gallery/Asset 5-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 8-50.jpg" srcset="img/gallery/Asset 8-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset  8-50.jpg"
+                                src="img/gallery/Asset 8-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 7-50.jpg" srcset="img/gallery/Asset 7-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 7-50.jpg"
+                                src="img/gallery/Asset 7-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 9-50.jpg" srcset="img/gallery/Asset 9-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 9-50.jpg"
+                                src="img/gallery/Asset 9-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                <li class="projects_list-item">
+                    <div class="media aos-init aos-animate" data-aos="zoom-in-right">
+                        <picture>
+                            <source data-srcset="img/gallery/Asset 11-50.jpg" srcset="img/gallery/Asset 11-50.jpg"
+                                type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 11-50.jpg"
+                                src="img/gallery/Asset 11-50.jpg" alt="Fresh Concept Construction Renovation"
+                                data-ll-status="loaded"></picture>
+                    </div>
+                    <div class="main">
+                        <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Verna
+                                Engineers</span> <span class="divider divider--line aos-init aos-animate"
+                                data-aos="slide-right"></span></h3>
+                        <div class="main_info"><span class="location aos-init aos-animate" data-aos="fade-in"
+                                data-aos-delay="50"><i class="icon-location icon"></i> Tiruchirapalli,Tamilnadu
+                            </span>
+                        </div>
+                    </div>
+                </li>
             </ul>
-                <div class=gallery_masonry data-role=gallery>
-                    
-            
-                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-50.png" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-70.png" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-60.png" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-80.png" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-                    
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 2-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 3-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-            
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy"src="img/gallery/Asset 4-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 5-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy"src="img/gallery/Asset 6-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-            
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 7-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 8-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 9-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-            
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 10-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 6-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 4-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 14-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-
-                    <figure class=gallery_masonry-item data-groups='["Completed"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                    </a></figure>
-             
-                    <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 16-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
-                        </div>
-                   </a></figure>    
-                </div> 
         </div>
     </main>
 
