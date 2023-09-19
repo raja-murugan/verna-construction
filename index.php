@@ -97,9 +97,9 @@
                     <div class="card glowing-circle" data-aos="fade-right">
                         <span class="card_underlay"></span>
                         <div class="wrapper">
-                            <h4 class="title">Near Panjapur, Trichy</h4>
-                            <span class="square highlight">Exclusive Duplex Villa</span>
-                            <span class="info">Act Fast.</span>
+                            <h4 class="title">Exclusive Duplex Villa</h4>
+                            <span class="square highlight">Act Fast.</span>
+                            <span class="info">Near Panjapur, Trichy</span>
                             <a class="link link-arrow" href="booknow.php" target="_blank">Pre-Book Now<i
                                     class="icon-arrow_right icon"></i></a>
                         </div>
