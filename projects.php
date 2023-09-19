@@ -191,8 +191,8 @@
                 <li class="projects_list-item">                    
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">   
                         <picture>    
-                            <source data-srcset="img/gallery/Asset 1-50.jpg" srcset="img/gallery/Asset 1-50.jpg" type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 1-50.jpg" src="img/gallery/Asset 1-50.jpg"
+                            <source data-srcset="img/gallery/Asset 13-60.png" srcset="img/gallery/Asset 13-60.png" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-60.png" src="img/gallery/Asset 13-60.png"
                                 alt="Fresh Concept Construction Renovation" data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">   
