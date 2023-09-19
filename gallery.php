@@ -85,6 +85,60 @@
                 <li class=list-item><a data-target=Upcoming class=gallery_filters-filter href=#>Upcoming</a></li>
             </ul>
                 <div class=gallery_masonry data-role=gallery>
+                    
+            
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 13-50.png" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                        </div>
+                    </a></figure>
+                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 13-70.png" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                        </div>
+                    </a></figure>
+                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 13-60.png" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                        </div>
+                    </a></figure>
+                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
+                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
+                        data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/gallery/Asset 13-80.png" alt="Image caption">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                        </div>
+                    </a></figure>
                     <figure class=gallery_masonry-item data-groups='["Completed"]'><a
                         class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
                         data-role=gallery-link>
@@ -94,8 +148,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
                     
@@ -108,8 +162,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -122,8 +176,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
             
@@ -136,8 +190,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -150,8 +204,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -164,8 +218,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
             
@@ -178,8 +232,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -192,8 +246,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -206,8 +260,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
             
@@ -220,8 +274,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -234,8 +288,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -248,22 +302,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
-                        </div>
-                    </a></figure>
-            
-                    <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a
-                        class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption"
-                        data-role=gallery-link>
-                        <div class=aspect__inner>
-                            <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-50.jpg" alt="Image caption">
-                            </picture>
-                        </div>
-                        <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -276,8 +316,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
@@ -290,8 +330,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
              
@@ -304,8 +344,8 @@
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Fresh Concept Construction Renovation</h4><span
-                                class=overlay_label>Special Projects</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
+                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                    </a></figure>    
                 </div> 

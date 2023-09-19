@@ -100,7 +100,7 @@
                             <h4 class="title">Duplex Villa </h4>
                             <span class="square highlight">1250 Sq.ft </span>
                             <span class="info">Near Panjapur, Trichy</span>
-                            <a class="link link-arrow" href="booknow.php" target="_blank">Book Now<i
+                            <a class="link link-arrow" href="booknow.php" target="_blank">Pre-Book Now<i
                                     class="icon-arrow_right icon"></i></a>
                         </div>
                         <picture>
