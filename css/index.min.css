@@ -1965,8 +1965,8 @@ html[dir=rtl] #scrollTrigger {
         /* -ms-transform    : rotate(154deg); */
         /* transform        : rotate(154deg); */
         /* max-width        : 50%; */
-        bottom           : -4%;
-        left             : -10%
+        bottom           : -20%;
+        left             : -15%
     }
 
     .hero_media {
