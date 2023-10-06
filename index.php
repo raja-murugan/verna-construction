@@ -144,9 +144,9 @@
             <div class="container">
                 <div class="hero_deco">
                     <picture>
-                    <source data-srcset="img/bg/bg-2.png" srcset="img/bg/bg-2.png" type="image/webp" />
-                    <img class="lazy" data-src="img/bg/bg-2.png" src="img/bg/bg-2.png" class="home-img" alt="media"
-                        style="margin-top: 150px;" />
+                        <source data-srcset="img/bg/bg-2.png" srcset="img/bg/bg-2.png" type="image/webp" />
+                        <img class="lazy" data-src="img/bg/bg-2.png" src="img/bg/bg-2.png" class="home-img" alt="media"
+                            style="margin-top: 150px;" />
                     </picture>
                 </div>
                 <div class="hero_header section_header">
@@ -159,30 +159,30 @@
                     <div class="numbers">
                         <div class="numbers_group">
                             <h2 class="countNum number" data-suffix="+" data-value="22">
-                                0
+                             0   
                             </h2>
                             <span class="label">Years of experience in building relationship</span>
                         </div>
                         <div class="numbers_group">
                             <h2 class="countNum number" data-suffix="%" data-value="100">
-                                0
+                              0  
                             </h2>
                             <span class="label">Happy Customers</span>
                         </div>
                     </div>
-                    <!--div class="card glowing-circle" data-aos="fade-right" >
+                    <div class="card glowing-circle" data-aos="fade-right">
                         <span class="card_underlay"></span>
                         <div class="wrapper">
-                            <h4 class="title">Duplex Villa </h4>
-                            <span class="square highlight">1250 Sq.ft </span>
+                            <h4 class="title">Exclusive Duplex Villa</h4>
+                            <span class="square highlight">Act Fast.</span>
                             <span class="info">Near Panjapur, Trichy</span>
-                            <a class="link link-arrow" href="booknow.php" target="_blank">Book Now<i
+                            <a class="link link-arrow" href="booknow.php" target="_blank">Pre-Book Now<i
                                     class="icon-arrow_right icon"></i></a>
-                        </div
+                        </div>
                         <picture>
                             <img class="lazy" src="img/building_mini.png" alt="media" />
                         </picture>
-                    </div-->
+                    </div>
                 </div>
             </div>
         </section>
