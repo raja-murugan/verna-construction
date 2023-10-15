@@ -2941,7 +2941,7 @@ html[dir=rtl] .hero_slider--thumbs .thumb .title {
 
 @media screen and (min-width:1023.98px) {
     .hero {
-        padding: 0px 0 60px
+        padding: px 0 60px
     }
 
     .hero_slider--main .service .text {
