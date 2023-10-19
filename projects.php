@@ -138,7 +138,7 @@
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a class="aspect aspect--13x9"
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
