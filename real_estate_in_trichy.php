@@ -14,6 +14,11 @@
     <link rel=stylesheet href=css/gallery-masonry.min.css>
      <link rel=stylesheet href=css/single-post.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
+    <style>
+        .one {
+            text-align: left;
+        }
+    </style>
 </head>
 
 <body>
@@ -62,7 +67,7 @@
     <header class="page primary-bg">
         <div class=container>
             <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Construction</span>
-                <h1 class=title>House renovation services in Trichy</h1>
+                <h1 class=title>Real Estate in Trichy</h1>
                 <ul class=breadcrumbs>
                     <li><a href=index.php>Home</a></li>
                 </ul>
@@ -79,35 +84,84 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Excellence and innovation built into every design</h3>
-                    <p class=post_article-text>Imperdiet dui accumsan sit amet <a class=post_article-link href=#>link
-                            style</a> nulla facilisi morbi. Bibendum enim facilisis gravida neque convallis a cras
-                        semper. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium.
-                        Mauris nunc congue nisi vitae. Tortor condimentum lacinia quis vel eros donec. Nibh sit amet
-                        commodo nulla facilisi nullam vehicula.</p>
-                    <div class=block>
-                        <ul class=checklist>
-                            <li class=checklist_item><i class="icon-check icon"></i> Building the future with ideas</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Designing future with excellence
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Discovering possibility in concrete
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Engineering the better way</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Purus sit amet volutpat</li>
-                        </ul>
-                        <div class=media>
-                            <picture>
-                                <source data-srcset=img/blog/01.webp srcset=img/blog/01.webp type=image/webp><img
-                                    class=lazy data-src=img/blog/01.jpg src=img/blog/01.jpg alt=media>
-                            </picture>
+                    <h3 class=post_article-header>Welcome to Verna Engineers & Construction :</h3>
+                    <p class=post_article-text>
+                        Your gateway to the vibrant world of real estate in Trichy.With a reputation for excellence, integrity, and innovation, we are your trusted partner in finding the perfect real estate solutions in this dynamic city.
+                    </p>
+                    <h4 class=post_article-header>Why Choose Real Estate in Trichy ?</h4>
+                    <p class=post_article-text>
+                        Trichy is a city that beautifully blends tradition and modernity. It offers a diverse range of real estate opportunities, from residential properties in peaceful neighborhoods to commercial spaces in bustling areas. 
+                        Choosing the right real estate in Trichy means you're not only investing in property but also in a lifestyle.
+                    </p>
+                    <br>
+                    <hr>
+                    <br>
+                    <div class="row">
+                    <h5>Our Comprehensive Real Estate Services ,</h5>
+                    <h4 class="pt-3">Verna Engineers & Construction provides a wide range of real estate services in Trichy, including :</h4>
+                        <div class= "col-lg-7">
+                        
+                            <ul class=checklist>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Residential Properties :</h5></li>
+                                <p>Whether you're looking for a cozy apartment, a spacious villa, or a plot of land to build your dream home, we have an extensive portfolio of residential properties.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Commercial Spaces :</h5></li>
+                                <p>From office spaces to retail shops, our real estate listings include a variety of commercial properties that cater to businesses of all sizes.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Land Investments :</h5></li>
+                                <p>If you're considering land investments for future development or investment, we can guide you through available land options.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Legal Assistance :</h5></li>
+                                <p>Our team can assist you with all the legal aspects of real estate transactions, ensuring a smooth and hassle-free experience.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Property Management : </h5></li>
+                                <p>We offer property management services to handle everything from maintenance to finding tenants for your rental properties.</p>
+                            </ul>
                         </div>
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class="media pt-5">
+                                <picture>
+                                    <img class=lazy data-src=img/blog/18.jpg src=img/blog/18.jpg alt=media>
+                                </picture>
+                            </div>
                         </div>
-                        <p class=post_article-text>Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. In
-                        aliquam sem fringilla ut morbi tincidunt augue interdum. Quam id leo in vitae turpis massa sed
-                        elementum. Id consectetur purus ut faucibus pulvinar elementum integer enim. Sapien eget mi
-                        proin sed libero enim sed faucibus</p>
-                    
+                    </div>
                 </article>
+                <hr>
+                <br>
+                <article class=post_article>
+                    <div class="row">
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class=media>
+                                <picture>
+                                    <img class=lazy data-src=img/blog/7.jpg src=img/blog/7.jpg alt=media>
+                                </picture>
+                            </div>
+                        </div>
+                        <div class= "col-lg-7 pt-5">
+                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction ?</h4>
+                            <ul class=checklist>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Local Expertise :</h5></li>
+                                <p>With years of experience in Trichy, we understand the intricacies of the local real estate market, allowing us to provide tailored solutions.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Customer-Centric Approach :</h5></li>
+                                <p>Your satisfaction is our priority. We take the time to understand your needs and work closely with you to find the perfect real estate solution.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Integrity :</h5></li>
+                                <p>We conduct our business with transparency and integrity, ensuring that you receive honest and reliable advice throughout your real estate journey.</p>
+                            </ul>
+                        </div>
+                    </div>
+                </article>
+                <br>
+                <hr>
+                <br>
+                <h3>Contact Us for Real Estate Solutions in Trichy</h3>
+                <br>
+                <p>
+                    Verna Engineers & Construction is dedicated to helping you find your ideal real estate in Trichy. If you're looking for residential properties, commercial spaces, land investments, or any real estate service, contact us today. 
+                    Let us guide you through the world of Trichy real estate and help you make informed decisions.
+                </p>
             </div>
         </div>
     </main>

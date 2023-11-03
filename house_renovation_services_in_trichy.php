@@ -14,6 +14,11 @@
     <link rel=stylesheet href=css/gallery-masonry.min.css>
      <link rel=stylesheet href=css/single-post.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
+    <style>
+        .one {
+            text-align: left;
+        }
+    </style>
 </head>
 
 <body>
@@ -62,7 +67,7 @@
     <header class="page primary-bg">
         <div class=container>
             <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Construction</span>
-                <h1 class=title>Real-Estate in Trichy</h1>
+                <h1 class=title>House Renovation Services in Trichy</h1>
                 <ul class=breadcrumbs>
                     <li><a href=index.php>Home</a></li>
                 </ul>
@@ -79,35 +84,85 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Excellence and innovation built into every design</h3>
-                    <p class=post_article-text>Imperdiet dui accumsan sit amet <a class=post_article-link href=#>link
-                            style</a> nulla facilisi morbi. Bibendum enim facilisis gravida neque convallis a cras
-                        semper. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium.
-                        Mauris nunc congue nisi vitae. Tortor condimentum lacinia quis vel eros donec. Nibh sit amet
-                        commodo nulla facilisi nullam vehicula.</p>
-                    <div class=block>
-                        <ul class=checklist>
-                            <li class=checklist_item><i class="icon-check icon"></i> Building the future with ideas</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Designing future with excellence
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Discovering possibility in concrete
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Engineering the better way</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Purus sit amet volutpat</li>
-                        </ul>
-                        <div class=media>
-                            <picture>
-                                <source data-srcset=img/blog/01.webp srcset=img/blog/01.webp type=image/webp><img
-                                    class=lazy data-src=img/blog/01.jpg src=img/blog/01.jpg alt=media>
-                            </picture>
+                    <h3 class=post_article-header>House Renovation Services in Trichy by Verna Engineers & Construction</h3>
+                    <p class=post_article-text>
+                    Renovating your house is a significant undertaking, and it's essential to choose a professional service that can handle the project with expertise and attention to detail. 
+                    At Verna Engineers & Construction, our skilled team of experts ensures that every aspect of your house renovation is executed flawlessly.
+                    </p>
+                    <h4 class=post_article-header>Why Choose Professional House Renovation Services?</h4>
+                    <p class=post_article-text>
+                        When it comes to constructing your dream building, choosing a professional construction service is paramount. 
+                        Professional builders ensure that your project is completed with expertise, on time, and within budget. 
+                        At Verna Engineers & Construction, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
+                    </p>
+                    <br>
+                    <hr>
+                    <br>
+                    <div class="row">
+                    <h5>Our Comprehensive House Renovation Services</h5>
+                    <h4 class="pt-3">Verna Engineers & Construction offers a wide range of house renovation services in Trichy, including:</h4>
+                        <div class= "col-lg-7">
+                        
+                            <ul class=checklist>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Interior and Exterior Renovations :</h5></li>
+                                <p>Whether you want to update the interior living spaces or give your home's exterior a fresh look, our team can handle it all. From paint and decor to structural changes, we have you covered.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Kitchen and Bathroom Renovations :</h5></li>
+                                <p>Transform your kitchen and bathroom into modern, functional spaces that reflect your style and meet your needs.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Flooring and Roofing :</h5></li>
+                                <p>Update your floors and roofing to enhance the aesthetics and functionality of your home. We offer various flooring options and roofing materials to choose from.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Electrical and Plumbing Upgrades :</h5></li>
+                                <p>Ensure the safety and efficiency of your home by upgrading electrical systems and plumbing. Our experts will make sure your home meets all safety standards.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Green Renovations : </h5></li>
+                                <p>If you're eco-conscious, we offer green renovation solutions that help you reduce your environmental footprint and save on energy bills.</p>
+                                
+                            </ul>
                         </div>
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class="media pt-5">
+                                <picture>
+                                    <img class=lazy data-src=img/blog/3.jpg src=img/blog/3.jpg alt=media>
+                                </picture>
+                            </div>
                         </div>
-                        <p class=post_article-text>Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. In
-                        aliquam sem fringilla ut morbi tincidunt augue interdum. Quam id leo in vitae turpis massa sed
-                        elementum. Id consectetur purus ut faucibus pulvinar elementum integer enim. Sapien eget mi
-                        proin sed libero enim sed faucibus</p>
-                    
+                    </div>
                 </article>
+                <hr>
+                <br>
+                <article class=post_article>
+                    <div class="row">
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class=media>
+                                <picture>
+                                    <img class=lazy data-src=img/blog/8.jpg src=img/blog/8.jpg alt=media>
+                                </picture>
+                            </div>
+                        </div>
+                        <div class= "col-lg-7 pt-5">
+                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction?</h4>
+                            <ul class=checklist>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Experience :</h5></li>
+                                <p>With years of experience in the Trichy area, we understand the unique challenges and opportunities associated with house renovations in this region.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Quality Assurance :</h5></li>
+                                <p>Our team is committed to delivering top-notch quality in every project. We take pride in our craftsmanship.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Customer Satisfaction :</h5></li>
+                                <p>We prioritize your needs and satisfaction above all else. Your vision and ideas are at the heart of our renovation projects.</p>
+                            </ul>
+                        </div>
+                    </div>
+                </article>
+                <br>
+                <hr>
+                <br>
+                <h3>Contact Us for Your House Renovation in Trichy</h3>
+                <br>
+                <p>At Verna Engineers & Construction, we are dedicated to making your house renovation dreams come true. If you're seeking professional house renovation services in Trichy, contact us today to discuss your project and transform your house into the home of your dreams.</p>
             </div>
         </div>
     </main>

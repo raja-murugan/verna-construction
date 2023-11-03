@@ -14,6 +14,11 @@
     <link rel=stylesheet href=css/gallery-masonry.min.css>
      <link rel=stylesheet href=css/single-post.min.css>
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
+    <style>
+        .one {
+            text-align: left;
+        }
+    </style>
 </head>
 
 <body>
@@ -62,9 +67,9 @@
     <header class="page primary-bg">
         <div class=container>
             <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Construction</span>
-                <h1 class=title>Promoters in Trichy</h1>
+                <h1 class=title>Building Construction in Trichy</h1>
                 <ul class=breadcrumbs>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href=index.php>Home</a></li>
                 </ul>
             </div>
         </div>
@@ -79,35 +84,87 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Excellence and innovation built into every design</h3>
-                    <p class=post_article-text>Imperdiet dui accumsan sit amet <a class=post_article-link href=#>link
-                            style</a> nulla facilisi morbi. Bibendum enim facilisis gravida neque convallis a cras
-                        semper. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium.
-                        Mauris nunc congue nisi vitae. Tortor condimentum lacinia quis vel eros donec. Nibh sit amet
-                        commodo nulla facilisi nullam vehicula.</p>
-                    <div class=block>
-                        <ul class=checklist>
-                            <li class=checklist_item><i class="icon-check icon"></i> Building the future with ideas</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Designing future with excellence
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Discovering possibility in concrete
-                            </li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Engineering the better way</li>
-                            <li class=checklist_item><i class="icon-check icon"></i> Purus sit amet volutpat</li>
-                        </ul>
-                        <div class=media>
-                            <picture>
-                                <source data-srcset=img/blog/01.webp srcset=img/blog/01.webp type=image/webp><img
-                                    class=lazy data-src=img/blog/01.jpg src=img/blog/01.jpg alt=media>
-                            </picture>
+                    <h3 class=post_article-header>Building Construction in Trichy - Verna Engineers & Construction</h3>
+                    <p class=post_article-text>
+                        Verna Engineers & Construction is your partner for exceptional building construction in Trichy. 
+                        With a solid track record of delivering high-quality construction services, 
+                        we are the go-to choice for transforming your construction dreams into reality.
+                    </p>
+                    <h4 class=post_article-header>Why Choose Professional Building Construction?</h4>
+                    <p class=post_article-text>
+                        When it comes to constructing your dream building, choosing a professional construction service is paramount. 
+                        Professional builders ensure that your project is completed with expertise, on time, and within budget. 
+                        At Verna Engineers & Construction, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
+                    </p>
+                    <br>
+                    <hr>
+                    <br>
+                    <div class="row">
+                    <h4>Our Comprehensive Building Construction Services - Verna Engineers & Construction offers a wide range of building construction services in Trichy, including:</h4>
+                        <div class= "col-lg-7">
+                        
+                            <ul class=checklist>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Residential Construction :</h5></li>
+                                <p>Whether you're planning to build your dream home, a luxurious villa, or an apartment complex, our expertise covers various residential projects.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Commercial Construction :</h5></li>
+                                <p>From office buildings to retail spaces and industrial complexes, we have the experience and resources to handle a wide array of commercial construction projects.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Institutional and Public Buildings :</h5></li>
+                                <p>We excel in the construction of schools, hospitals, and other public infrastructure, ensuring safety and functionality.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Green Building Solutions :</h5></li>
+                                <p>If sustainability is your focus, we offer green building solutions that meet modern environmental standards.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Renovation and Remodeling : </h5></li>
+                                <p>Our construction services extend to renovation and remodeling projects to rejuvenate and modernize existing structures.</p>
+                                
+                            </ul>
                         </div>
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class=media>
+                                <picture>
+                                    <source data-srcset=img/blog/18.webp srcset=img/blog/18.webp type=image/webp>
+                                    <img class=lazy data-src=img/blog/18.jpg src=img/blog/18.jpg alt=media>
+                                </picture>
+                            </div>
                         </div>
-                        <p class=post_article-text>Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. In
-                        aliquam sem fringilla ut morbi tincidunt augue interdum. Quam id leo in vitae turpis massa sed
-                        elementum. Id consectetur purus ut faucibus pulvinar elementum integer enim. Sapien eget mi
-                        proin sed libero enim sed faucibus</p>
-                    
+                    </div>
                 </article>
+                <hr>
+                <br>
+                <article class=post_article>
+                    <div class="row">
+                        <div class= "col-lg-5 col-md-4 pt-5">
+                            <div class=media>
+                                <picture>
+                                    <source data-srcset=img/blog/01.webp srcset=img/blog/01.webp type=image/webp>
+                                    <img class=lazy data-src=img/blog/01.jpg src=img/blog/01.jpg alt=media>
+                                </picture>
+                            </div>
+                        </div>
+                        <div class= "col-lg-7 pt-5">
+                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction?</h4>
+                            <ul class=checklist>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Proven Expertise :</h5></li>
+                                <p>With a rich history of successful projects in Trichy, we understand the local construction landscape.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Quality Assurance :</h5></li>
+                                <p>We take pride in our commitment to delivering top-notch quality on every project. Your satisfaction is our ultimate goal.</p>
+                                
+                                <li class=checklist_item><i class="icon-check icon"></i><h5> Transparent Communication :</h5></li>
+                                <p>We believe in transparent communication with our clients, ensuring you're informed at every step of the construction process.</p>
+                            </ul>
+                        </div>
+                    </div>
+                </article>
+                <br>
+                <hr>
+                <br>
+                <h3>Contact Us for Your Building Construction in Trichy</h3>
+                <br>
+                <p>If you're seeking professional building construction services in Trichy, Verna Engineers & Construction is your ideal choice. Contact us today to discuss your project and see your construction vision come to life.</p>
             </div>
         </div>
     </main>
