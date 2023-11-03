@@ -60,7 +60,7 @@
     </header>
     
 <main> 
-    <section class="about primary-bg section">
+    <!-- <section class="about primary-bg section">
             <div class=container>
                 <div class="about_header section_header"><span class=subtitle data-aos=fade-down>Just feel the
                         future</span>
@@ -111,7 +111,7 @@
                     </ul><br><span class="wrapper d-block" data-aos=fade-right data-aos-delay=50><a class=btn href=#>About
                             company</a></span>
                 </div>
-                <div class=secondary>
+                <div class=secondary> -->
                     <!-- <ul class=numbers_list>
                         <li class=numbers_list-item>
                             <h2 class="countNum number highlight" data-value=200 data-suffix=+>0</h2><span
@@ -122,7 +122,7 @@
                                 class=label>Building Control Approval Rate</span>
                         </li>
                     </ul> -->
-                    <div class=media data-aos=zoom-in data-aos-duration=600>
+                    <!-- <div class=media data-aos=zoom-in data-aos-duration=600>
                         <picture>
                             <source data-srcset="img/bg/1.png" srcset="img/bg/1.png" type=image/webp><img
                                 class=lazy data-src="img/bg/1.png" src="img/bg/1.png" alt=media>
@@ -130,7 +130,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     
     
     
