@@ -131,7 +131,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Survey.png" alt="media" />
+                                            <img class="lazy" src="img/pic/licensed.webp" alt="Licensed Surveyor" title="Licensed Surveyor" />
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -167,7 +167,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Renovation.png" alt="media" />
+                                            <img class="lazy" src="img/pic/Renovation.webp" alt="Renovation Contractor"title="Renovation Contractor" />
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -206,7 +206,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Interior.png" alt="media" />
+                                            <img class="lazy" src="img/pic/interior.webp" alt="Interior Designers"  title="Interior Desiners"/>
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -244,7 +244,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Real estate.png" alt="media" />
+                                            <img class="lazy" src="img/pic/Real estate.webp" alt="Real Estate services"title="Real Estate" />
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -283,7 +283,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Building Contractor.png" alt="media" />
+                                            <img class="lazy" src="img/pic/Building Contractor.webp " alt="Building Contractor" title="Building Contractor" />
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -321,7 +321,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/Promotor.png" alt="media" />
+                                            <img class="lazy" src="img/pic/promoters.webp" alt="promoters"title="promoter" />
                                         </picture>
                                     </div>
                                     <div class="main">
@@ -362,7 +362,7 @@
                                 <div class="content">
                                     <div class="media">
                                         <picture>
-                                            <img class="lazy" src="img/services/project_management.jpg" alt="media" />
+                                            <img class="lazy" src="img/pic/project management.webp" alt="project management" title="project management" />
                                         </picture>
                                     </div>
                                     <div class="main">

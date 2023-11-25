@@ -114,7 +114,7 @@
                 </div>
                 <div class="media" data-aos="zoom-in" data-aos-duration="700">
                     <picture>
-                        <img class="lazy" data-src="img/projects/View.jpg" src="img/projects/View.jpg" alt="About Us" />
+                        <img class="lazy" data-src="img/pic/about.webp" src="img/pic/about.web" alt="house renovation" title="house renovation" />
                     </picture>
                 </div>
             </div>

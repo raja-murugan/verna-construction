@@ -82,10 +82,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 13-50.png" srcset="img/gallery/Asset 13-50.png"
+                            <source data-srcset="img/pic/G+1.webp" srcset="img/pic/G+1.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-50.png"
-                                src="img/gallery/Asset 13-50.png" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/G+1.webp"
+                                src="img/pic/G+1.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -100,10 +100,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 13-60.png" srcset="img/gallery/Asset 13-60.png"
+                          <source data-srcset="img/gallery/Asset 13-60.png" srcset="img/gallery/Asset 13-60.png"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-60.png"
-                                src="img/gallery/Asset 13-60.png" alt="Fresh Concept Construction Renovation"
+                            <img class="img/pic/ground floor,north.webp" data-src="img/pic/ground floor,north.webp"
+                                src="img/pic/G+1.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -118,10 +118,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 13-70.png" srcset="img/gallery/Asset 13-70.png"
+                            <source data-srcset="img/pic/ground floor ,south facing.webp" srcset="img/pic/ground floor ,south facing.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-70.png"
-                                src="img/gallery/Asset 13-70.png" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/ground floor ,south facing.webp"
+                                src="img/pic/ground floor ,south facing.webp "alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -136,10 +136,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 13-80.png" srcset="img/gallery/Asset 13-80.png"
+                            <source data-srcset="img/gallery/Asset 6-50.jpg" srcset="img/gallery/Asset 6-50.jpg"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 13-80.png"
-                                src="img/gallery/Asset 13-80.png" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/gallery/Asset 6-50.jpg"
+                                src="img/gallery/Asset 6-50.jpg" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -154,10 +154,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 17-50.jpg" srcset="img/gallery/Asset 17-50.jpg"
+                            <source data-srcset="img/pic/p.g nagar.webp" srcset="img/pic/p.g nagar.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 17-50.jpg"
-                                src="img/gallery/Asset 17-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/p.g nagar.webp"
+                                src="img/pic/p.g nagar.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -172,10 +172,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 16-50.jpg" srcset="img/gallery/Asset 16-50.jpg"
+                            <source data-srcset="img/pic/pudukkottai sivapuram.webp" srcset="img/pic/pudukkottai sivapuram.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 16-50.jpg"
-                                src="img/gallery/Asset 16-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/pudukkottai sivapuram.webp"
+                                src="img/pic/pudukkottai sivapuram.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -190,10 +190,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 14-50.jpg" srcset="img/gallery/Asset 14-50.jpg"
+                            <source data-srcset="img/pic/CKP garden.webp" srcset="img/pic/CKP garden.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 14-50.jpg"
-                                src="img/gallery/Asset 14-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/CKP garden.webp"
+                                src="img/pic/CKP garden.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -208,9 +208,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/projects/p8.jpg" srcset="img/projects/p8.jpg" type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/projects/p8.jpg" src="img/projects/p8.jpg"
-                                alt="Food Factory Design and Construction" data-ll-status="loaded"></picture>
+                            <source data-srcset="img/pic/vrl jpg.webp" srcset="img/pic/vrl jpg.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/pic/vrl jpg.webp" src="img/pic/vrl jpg.webp"
+                                alt="Food Factory Design and Construction" title="Food Factory Design and Construction"
+                                data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
                         <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">VRL
@@ -225,10 +226,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 6-50.jpg" srcset="img/gallery/Asset 6-50.jpg"
+                            <source data-srcset="img/gallery/Asset 6-50.jpgp" srcset="img/gallery/Asset 6-50.jpg"
                                 type="image/webp">
                             <img class="lazy entered loaded" data-src="img/gallery/Asset 6-50.jpg"
-                                src="img/gallery/Asset 6-50.jpg" alt="Fresh Concept Construction Renovation"
+                                src="img/gallery/Asset 6-50.jpg" alt="Fresh Concept Construction Renovation" title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -244,9 +245,9 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/projects/p3.jpg" srcset="img/projects/p3.jpg" type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/projects/p3.jpg" src="img/projects/p3.jpg"
-                                alt="Reconstruction of Old Factory Building" data-ll-status="loaded"></picture>
+                            <source data-srcset="img/pic/virutcham.webp" srcset="img/pic/virutcham.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/pic/virutcham.webp" src="img/pic/virutcham.webg"
+                                alt="Reconstruction of Old Factory Building"title="Reconstruction of Old Factory Building" data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
                         <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Virutcham
@@ -261,9 +262,9 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/projects/p7.jpg" srcset="img/projects/p7.jpg" type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/projects/p7.jpg" src="img/projects/p7.jpg"
-                                alt="Installation and Creation of a Supply System" data-ll-status="loaded"></picture>
+                            <source data-srcset="img/pic/landis school.webp" srcset="img/pic/landis school.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/pic/landis school.webp" src="img/pic/landis school.webp"
+                                alt="Installation and Creation of a Supply System"title="Installation and Creation of a Supply System" data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
                         <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Landis 
@@ -278,9 +279,9 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/projects/p2.jpg" srcset="img/projects/p2.jpg" type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/projects/p2.jpg" src="img/projects/p2.jpg"
-                                alt="Jazzy Elite Construction Shopping Center" data-ll-status="loaded"></picture>
+                            <source data-srcset="img/pic/siva homes.webp" srcset="img/pic/siva homes.webp" type="image/webp">
+                            <img class="lazy entered loaded" data-src="img/pic/siva homes.webp" src="img/pic/siva homes.webp"
+                                alt="Jazzy Elite Construction Shopping Center"title="Jazzy Elite Construction Shopping Center" data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
                         <h3 class="main_title aos-init aos-animate" data-aos="fade-in"><span class="text">Siva
@@ -295,10 +296,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 2-50.jpg" srcset="img/gallery/Asset 2-50.jpg"
+                            <source data-srcset="img/pic/verna2.webp" srcset="img/pic/verna2.webp"
                                 type="image/webp">
                             <img class="lazy entered loaded" data-src="img/gallery/Asset 2-50.jpg "
-                                src="img/gallery/Asset 2-50.jpg" alt="Fresh Concept Construction Renovation"
+                                src="img/pic/verna2.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -314,10 +315,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 3-50.jpg" srcset="img/gallery/Asset 3-50.jpg"
+                            <source data-srcset="img/pic/verna3.webp" srcset="img/pic/verna3.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 3-50.jpg"
-                                src="img/gallery/Asset 3-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna3.webp"
+                                src="img/pic/verna3.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -333,10 +334,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 5-50.jpg" srcset="img/gallery/Asset 5-50.jpg"
+                            <source data-srcset="img/pic/verna5.webp" srcset="img/pic/verna5.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 5-50.jpg"
-                                src="img/gallery/Asset 5-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna5.webp"
+                                src="img/pic/verna5.webp" alt="Fresh Concept Construction Renovation" title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -352,10 +353,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 8-50.jpg" srcset="img/gallery/Asset 8-50.jpg"
+                            <source data-srcset="img/pic/verna8.webp" srcset="img/pic/verna8.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset  8-50.jpg"
-                                src="img/gallery/Asset 8-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna8.webp"
+                                src="img/pic/verna8.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -371,10 +372,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 7-50.jpg" srcset="img/gallery/Asset 7-50.jpg"
+                            <source data-srcset="img/pic/verna 7.webp" srcset="img/pic/verna 7.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 7-50.jpg"
-                                src="img/gallery/Asset 7-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna 7.webp"
+                                src="img/pic/verna 7.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -390,10 +391,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 9-50.jpg" srcset="img/gallery/Asset 9-50.jpg"
+                            <source data-srcset="img/pic/verna 9-50.webp" srcset="img/pic/verna 9-50.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 9-50.jpg"
-                                src="img/gallery/Asset 9-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna 9-50.webp"
+                                src="img/pic/verna 9-50.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovation"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">
@@ -409,10 +410,10 @@
                 <li class="projects_list-item">
                     <div class="media aos-init aos-animate" data-aos="zoom-in-right">
                         <picture>
-                            <source data-srcset="img/gallery/Asset 11-50.jpg" srcset="img/gallery/Asset 11-50.jpg"
+                            <source data-srcset="img/pic/verna11.webp" srcset="img/pic/verna11.webp"
                                 type="image/webp">
-                            <img class="lazy entered loaded" data-src="img/gallery/Asset 11-50.jpg"
-                                src="img/gallery/Asset 11-50.jpg" alt="Fresh Concept Construction Renovation"
+                            <img class="lazy entered loaded" data-src="img/pic/verna11.webp"
+                                src="img/pic/verna11.webp" alt="Fresh Concept Construction Renovation"title="Fresh Concept Construction Renovations"
                                 data-ll-status="loaded"></picture>
                     </div>
                     <div class="main">

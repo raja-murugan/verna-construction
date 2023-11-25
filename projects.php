@@ -93,7 +93,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-50.png" alt="Image caption">
+                                <image class="lazy" src="img/pic/G+1.webp" alt="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU"title="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -105,7 +105,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-70.png" alt="Image caption">
+                                <image class="lazy" src="img/pic/ground floor ,south facing.webp" alt="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU."title="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU.">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -117,7 +117,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-60.png" alt="Image caption">
+                                <image class="lazy" src="img/pic/ground floor,north.webp" alt="Ground floor,North facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU" title="Ground floor,North facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -129,7 +129,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 13-80.png" alt="Image caption">
+                                <image class="lazy" src="img/pic/G+1, south facing.webp" alt="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU " title="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -142,7 +142,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 17-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/p.g nagar.webp" alt="P.G NAGAR ,TRICHIRAPPALLI" title="P.G NAGAR ,TRICHIRAPPALLI">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -154,7 +154,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 14-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/CKP garden.webp" alt="CKP Garden -TRICHIRAPPALLI TAMILNADU"title="CKP Garden -TRICHIRAPPALLI ,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -167,7 +167,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 16-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/pudukkottai sivapuram.webp" alt="pudukkottai sivapuram"title="pudukkottai sivapuram">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -179,7 +179,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna trichy.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -192,7 +192,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 2-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna2.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -205,7 +205,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 3-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna3.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -218,7 +218,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 4-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna 4.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -231,7 +231,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 5-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna5.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -244,7 +244,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 6-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna6, sathyahomes.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -257,7 +257,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 7-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna 7.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -270,7 +270,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 8-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna8.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -283,7 +283,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 9-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna 9-50.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -296,7 +296,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 10-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna10.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -309,7 +309,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 6-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna11.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -322,7 +322,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 4-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna12.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -335,7 +335,7 @@
                         href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/gallery/Asset 15-50.jpg" alt="Image caption">
+                                <image class="lazy" src="img/pic/verna13.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
