@@ -15,6 +15,13 @@
     <link rel="stylesheet" href="css/floatbutton.min.css" />
     <link rel="icon" type="image/x-icon" href="img/logo/fav-icon.png">
 
+    <meta name="description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vernaconstruction.com/">
+    <meta property="og:title" content="Best construction company in Trichy: Building Dreams Together.">
+    <meta property="og:description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:image" content="https://vernaconstruction.com/img/banner/banner1.jpg">
+    
     <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -147,8 +154,6 @@
             </div>
         </section> -->
     
-    
-    
         <section class="hero primary-bg">
             <div class="hero_media" data-aos="fade-up" data-aos-delay="50">
                 <picture>
@@ -214,7 +219,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">01</span>
-                            <h4 class="title">Licensed Surveyor</h4>
+                            <h4 class="title">
+                                <a href="service.php">Licensed Surveyor</a>
+                            </h4>
                             <p class="description">
                                 We understand how important approval for any types of civil construction project, and we
                                 strive to provide our clients with the best approval services.
@@ -224,7 +231,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">02</span>
-                            <h4 class="title">Renovation Contractor</h4>
+                            <h4 class="title">
+                                <a href="service.php">Renovation Contractor</a>    
+                            </h4>
                             <p class="description">
                                 For both residential and commercial properties, we are specialized in all types of
                                 renovation, remodeling, and restorations with specialized technical teams.
@@ -234,7 +243,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">03</span>
-                            <h4 class="title">Interior Designer</h4>
+                            <h4 class="title">
+                                <a href="service.php">Interior Designer</a>
+                            </h4>
                             <p class="description">
                                 We provide a superior solution for all of your interior demands with your budget by
                                 giving great craftsmanship, futuristic innovative designs, and on-time project
@@ -245,7 +256,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">04</span>
-                            <h4 class="title">Real Estate</h4>
+                            <h4 class="title">
+                                <a href="service.php">Real Estate</a>
+                            </h4>
                             <p class="description">
                                 We have established a reputation as one of the trustworthy real estate service providers
                                 in the building industry thanks to our satisfied clients.
@@ -255,7 +268,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">05</span>
-                            <h4 class="title">Building Contractor</h4>
+                            <h4 class="title">
+                                <a href="service.php">Building Contractor</a>
+                            </h4>
                             <p class="description">
                                 With 22+ years of experience in the contracting and a proven record of
                                 completed projects, we guarantee that your dreams comes to reality.
@@ -265,7 +280,9 @@
                     <li class="services_list-item" data-aos="fade-up">
                         <div class="wrapper">
                             <span class="number">06</span>
-                            <h4 class="title">Promoter</h4>
+                            <h4 class="title">
+                                <a href="service.php">Promoter</a>
+                            </h4>
                             <p class="description">
                                 We are the up coming building promoter in the industry, Creating a better living spaces
                                 with our innovative and reliable structures.
