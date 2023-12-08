@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Verna Engineers & Contractors</title>
+    <title>Expert in Building Construction Services: Residential & Commercial </title>
+    <<meta name="keywords"content="building construction in trichy,building contractors in trichy,construction company in trichy">
     <link rel="stylesheet preload" as="style" href="css/preload.min.css">
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
@@ -19,6 +20,12 @@
             text-align: left;
         }
     </style>
+     <meta name="description" content="Contact us for a personalized consultation and let us bring your dream home to life in Trichy. To ensure the suitability and feasibility of your dream home">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vernaconstruction.com/">
+    <meta property="og:title" content="Best construction company in Trichy: Building Dreams Together.">
+    <meta property="og:description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:image" content="https://vernaconstruction.com/img/banner/banner1.jpg">
 </head>
 
 <body>
@@ -66,7 +73,7 @@
 
     <header class="page primary-bg">
         <div class=container>
-            <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Construction</span>
+            <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers &  Contractors</span>
                 <h1 class=title>Building Construction in Trichy</h1>
                 <ul class=breadcrumbs>
                     <li><a href=index.php>Home</a></li>
@@ -84,9 +91,9 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Building Construction in Trichy - Verna Engineers & Construction</h3>
+                    <h3 class=post_article-header> <a  style="color:#4fa7b2;" href="service.php"> Building Construction in Trichy</a> - Verna Engineers & contractors</h3>
                     <p class=post_article-text>
-                        Verna Engineers & Construction is your partner for exceptional building construction in Trichy. 
+                        Verna Engineers & Contractorsis your partner for exceptional building construction in Trichy. 
                         With a solid track record of delivering high-quality construction services, 
                         we are the go-to choice for transforming your construction dreams into reality.
                     </p>
@@ -94,13 +101,13 @@
                     <p class=post_article-text>
                         When it comes to constructing your dream building, choosing a professional construction service is paramount. 
                         Professional builders ensure that your project is completed with expertise, on time, and within budget. 
-                        At Verna Engineers & Construction, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
+                        At Verna Engineers & contractors, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
                     </p>
                     <br>
                     <hr>
                     <br>
                     <div class="row">
-                    <h4>Our Comprehensive Building Construction Services - Verna Engineers & Construction offers a wide range of building construction services in Trichy, including:</h4>
+                    <h4>Our Comprehensive Building Construction Services - <a style="color:#4fa7b2;"href="index.php">Verna Engineers & contractors </a>offers a wide range of building construction services in Trichy, including:</h4>
                         <div class= "col-lg-7">
                         
                             <ul class=checklist>
@@ -111,16 +118,15 @@
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Commercial Construction :</h5></li>
                                 <p>From office buildings to retail spaces and industrial complexes, we have the experience and resources to handle a wide array of commercial construction projects.</p>
                                 
-                                <li class=checklist_item><i class="icon-check icon"></i><h5> Institutional and Public Buildings :</h5></li>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5>Institutional and Public Buildings  :</h5></li>
                                 <p>We excel in the construction of schools, hospitals, and other public infrastructure, ensuring safety and functionality.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Green Building Solutions :</h5></li>
                                 <p>If sustainability is your focus, we offer green building solutions that meet modern environmental standards.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Renovation and Remodeling : </h5></li>
-                                <p>Our construction services extend to renovation and remodeling projects to rejuvenate and modernize existing structures.</p>
-                                
-                            </ul>
+                                <p>Our construction services extend to <a style="color:#4fa7b2;" href="house_renovation_services_in_trichy.php"> renovation and remodeling </a><a  style="color:#4fa7b2;" href="projects.php">projects</a> to rejuvenate and modernize existing structures.
+                              </ul>
                         </div>
                         <div class= "col-lg-5 col-md-4 pt-5">
                             <div class=media>
@@ -145,7 +151,7 @@
                             </div>
                         </div>
                         <div class= "col-lg-7 pt-5">
-                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction?</h4>
+                        <h4 class="one pt-3">Why Choose Verna Engineers & contractors?</h4>
                             <ul class=checklist>
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Proven Expertise :</h5></li>
                                 <p>With a rich history of successful projects in Trichy, we understand the local construction landscape.</p>
@@ -164,7 +170,7 @@
                 <br>
                 <h3>Contact Us for Your Building Construction in Trichy</h3>
                 <br>
-                <p>If you're seeking professional building construction services in Trichy, Verna Engineers & Construction is your ideal choice. Contact us today to discuss your project and see your construction vision come to life.</p>
+                <p>If you're seeking professional building construction services in Trichy, Verna Engineers & contractors is your ideal choice.  <a style="color:#4fa7b2;" href="contacts.php">contact us</a> today to discuss your project and see your construction vision come to life.</p>
             </div>
         </div>
     </main>
