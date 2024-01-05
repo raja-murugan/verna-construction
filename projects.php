@@ -24,34 +24,27 @@
             <nav class="header_nav collapse" id="headerMenu">
                 <ul class="header_nav-list">
                     <li class="header_nav-list_item">
-                        <a class="nav-link nav-item" href="index.php" data-page="home" id="links"><span
-                                class="nav-item_text">Home
+                        <a class="nav-link nav-item" href="index.php" data-page="home" id="links"><span class="nav-item_text">Home
                             </span></a>
                     </li>
                     <li class="header_nav-list_item">
-                        <a class="nav-item nav-link" href="about.php" data-page="about" data-single="true"
-                            id="links"><span class="nav-item_text">About</span></a>
+                        <a class="nav-item nav-link" href="about.php" data-page="about" data-single="true" id="links"><span class="nav-item_text">About</span></a>
                     </li>
                     <li class="header_nav-list_item">
-                        <a class="nav-link nav-item" data-page="services" data-page-parent="services" href="service.php"
-                            data-main="true" id="links">Services</a>
+                        <a class="nav-link nav-item" data-page="services" data-page-parent="services" href="service.php" data-main="true" id="links">Services</a>
                     </li>
                     <li class="header_nav-list_item">
-                        <a class="nav-link nav-item" data-page="projects2" data-page-parent="projects"
-                            href="projects.php" id="links" style="color: #9fc544;">Projects</a>
+                        <a class="nav-link nav-item" data-page="projects2" data-page-parent="projects" href="projects.php" id="links" style="color: #9fc544;">Projects</a>
                     </li>
                     <li class="header_nav-list_item">
-                        <a class="nav-link nav-item" data-page="gallery-grid" data-page-parent="pages"
-                            href="gallery.php" id="links">Gallery</a>
+                        <a class="nav-link nav-item" data-page="gallery-grid" data-page-parent="pages" href="gallery.php" id="links">Gallery</a>
                     </li>
                     <li class="header_nav-list_item">
-                        <a class="dropdown-item nav-item" data-page="contacts2" data-page-parent="contacts"
-                            href="contacts.php" id="links">Contact us</a>
+                        <a class="dropdown-item nav-item" data-page="contacts2" data-page-parent="contacts" href="contacts.php" id="links">Contact us</a>
                     </li>
                 </ul>
             </nav>
-            <button class="header_trigger" data-bs-toggle="collapse" data-bs-target="#headerMenu"
-                aria-controls="headerMenu" aria-expanded="false">
+            <button class="header_trigger" data-bs-toggle="collapse" data-bs-target="#headerMenu" aria-controls="headerMenu" aria-expanded="false">
                 <span class="line line--short"></span> <span class="line"></span>
                 <span class="line line--short"></span> <span class="line"></span>
             </button>
@@ -71,8 +64,7 @@
         </div>
         <div class="media">
             <picture>
-                <source data-srcset="img/plan.webp" srcset="img/plan.webp" type="image/webp"><img class="lazy"
-                    data-src="img/plan.png" src="img/plan.png" alt="media">
+                <source data-srcset="img/plan.webp" srcset="img/plan.webp" type="image/webp"><img class="lazy" data-src="img/plan.png" src="img/plan.png" alt="media">
             </picture>
         </div>
     </header>
@@ -88,12 +80,23 @@
             </ul>
             <div class=gallery_masonry data-role=gallery>
 
-
-                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9" href="img/gallery/Karthick Nagar.webp" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/G+1.webp" alt="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU"title="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU">
+                                <image class="lazy" src="img/pic/Karthick Nagar.webp" alt="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU " title="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU">
+                            </picture>
+                        </div>
+                        <div class=overlay>
+                            <h4 class=overlay_caption>G+1, South Facing</h4><span class=overlay_label>Karthick Nagar,
+                                Tiruchirapalli,Tamilnadu</span>
+                        </div>
+                    </a>
+                </figure>
+
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                        <div class=aspect__inner>
+                            <picture>
+                                <image class="lazy" src="img/pic/G+1.webp" alt="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU" title="G+1,NORTH FACING PREM NAGAR,TIRUCHIRAPALLI,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -101,11 +104,10 @@
                                 Tiruchirapalli,Tamilnadu</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/ground floor ,south facing.webp" alt="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU."title="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU.">
+                                <image class="lazy" src="img/pic/ground floor ,south facing.webp" alt="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU." title="Ground Floor,South Facing PREM NAGAR,TRICHIRAPALLI,TAMILNADU.">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -113,8 +115,7 @@
                                 Nagar, Tiruchirapalli,Tamilnadu</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/ground floor,north.webp" alt="Ground floor,North facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU" title="Ground floor,North facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU">
@@ -125,8 +126,7 @@
                                 Nagar, Tiruchirapalli,Tamilnadu</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Upcoming"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/G+1, south facing.webp" alt="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU " title="G+1,South facing PREEM NAGAR,TRICHIRAPALLI,TAMILNADU">
@@ -136,10 +136,10 @@
                             <h4 class=overlay_caption>G+1, South Facing</h4><span class=overlay_label>Prem Nagar,
                                 Tiruchirapalli,Tamilnadu</span>
                         </div>
-                    </a></figure>
+                    </a>
+                </figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/p.g nagar.webp" alt="P.G NAGAR ,TRICHIRAPPALLI" title="P.G NAGAR ,TRICHIRAPPALLI">
@@ -148,26 +148,27 @@
                         <div class=overlay>
                             <h4 class=overlay_caption>P.G Nagar</h4><span class=overlay_label>P.G Nagar,Tiruchirappalli</span>
                         </div>
-                    </a></figure>
+                    </a>
+                </figure>
 
-                    <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'>
+                    <a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/CKP garden.webp" alt="CKP Garden -TRICHIRAPPALLI TAMILNADU"title="CKP Garden -TRICHIRAPPALLI ,TAMILNADU">
+                                <image class="lazy" src="img/pic/CKP garden.webp" alt="CKP Garden -TRICHIRAPPALLI TAMILNADU" title="CKP Garden -TRICHIRAPPALLI ,TAMILNADU">
                             </picture>
                         </div>
                         <div class=overlay>
                             <h4 class=overlay_caption>CKP Garden</h4><span class=overlay_label>Tiruchirappalli, Tamil
                                 Nadu</span>
                         </div>
-                    </a></figure>
+                    </a>
+                </figure>
 
-                <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Ongoing"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/pudukkottai sivapuram.webp" alt="pudukkottai sivapuram"title="pudukkottai sivapuram">
+                                <image class="lazy" src="img/pic/pudukkottai sivapuram.webp" alt="pudukkottai sivapuram" title="pudukkottai sivapuram">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -175,167 +176,142 @@
                                 Pudukkottai</span>
                         </div>
                     </a></figure>
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/verna trichy.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna2.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna2.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna3.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna3.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/verna 4.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna5.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna5.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
                                 <image class="lazy" src="img/pic/verna6, sathyahomes.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna 7.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna 7.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna8.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna8.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna 9-50.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna 9-50.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna10.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna10.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna11.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna11.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna12.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna12.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
-                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span
-                                class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
+                            <h4 class=overlay_caption>Verna Engineers & Contractors</h4><span class=overlay_label>Tiruchirappalli, Tamil Nadu</span>
                         </div>
                     </a></figure>
 
-                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9"
-                        href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
+                <figure class=gallery_masonry-item data-groups='["Completed"]'><a class="aspect aspect--13x9" href="img/gallery/06full.jpg" data-caption="Image caption" data-role=gallery-link>
                         <div class=aspect__inner>
                             <picture>
-                                <image class="lazy" src="img/pic/verna13.webp" alt="Verna Engineers & Contractors"title="Verna Engineers & Contractors">
+                                <image class="lazy" src="img/pic/verna13.webp" alt="Verna Engineers & Contractors" title="Verna Engineers & Contractors">
                             </picture>
                         </div>
                         <div class=overlay>
@@ -351,8 +327,7 @@
         <div class="container">
             <div class="footer_main">
                 <div class="footer_main-block">
-                    <a class="brand" href="index.php"><img class="brand_logo" src="img/logo/logo.png"
-                            alt="Axial Construct" /></a>
+                    <a class="brand" href="index.php"><img class="brand_logo" src="img/logo/logo.png" alt="Axial Construct" /></a>
                     <p class="footer_main-block_subtitle
                         footer_main-block_subtitle--brand">Verna Engineering
                         is the one-stop-solution for all of your land
@@ -363,34 +338,28 @@
                     <h4 class="footer_main-block_title">Quick Link</h4>
                     <ul class="footer_main-block_nav">
                         <li class="list-item">
-                            <a class="nav-link link" href="about.php" data-page="about"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="about.php" data-page="about"><i class="icon-chevron_right icon"></i>
                                 About</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="services"><i class="icon-chevron_right icon"></i>
                                 Services</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="projects.php" data-page="projects"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="projects.php" data-page="projects"><i class="icon-chevron_right icon"></i>
                                 Projects</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="gallery.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="gallery.php" data-page="blog"><i class="icon-chevron_right icon"></i>
                                 Gallery</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="contacts.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="contacts.php" data-page="blog"><i class="icon-chevron_right icon"></i>
                                 Contact Us</a>
                         </li>
 
                         <li class="list-item">
-                            <a class="nav-link link" href="privacy_policy.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="privacy_policy.php" data-page="blog"><i class="icon-chevron_right icon"></i>
                                 Privacy Policy</a>
                         </li>
                     </ul>
@@ -399,33 +368,27 @@
                     <h4 class="footer_main-block_title">Services</h4>
                     <ul class="footer_main-block_nav">
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="about"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="about"><i class="icon-chevron_right icon"></i>
                                 Licensed Surveyor</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="services"><i class="icon-chevron_right icon"></i>
                                 Renovation Contractor</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="blog"><i class="icon-chevron_right icon"></i>
                                 Interior Designer</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="services"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="services"><i class="icon-chevron_right icon"></i>
                                 Real Estate</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="projects"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="projects"><i class="icon-chevron_right icon"></i>
                                 Building Contractor</a>
                         </li>
                         <li class="list-item">
-                            <a class="nav-link link" href="service.php" data-page="blog"><i
-                                    class="icon-chevron_right icon"></i>
+                            <a class="nav-link link" href="service.php" data-page="blog"><i class="icon-chevron_right icon"></i>
                                 Promoter</a>
                         </li>
                     </ul>
@@ -450,8 +413,7 @@
                     <div class="group-wrapper">
                         <i class="icon-call icon"></i>
                         <div class="group">
-                            <a href="mailto:info@vernaconstruction.com"
-                                style="margin-bottom: 5px;">info@vernaconstruction.com</a>
+                            <a href="mailto:info@vernaconstruction.com" style="margin-bottom: 5px;">info@vernaconstruction.com</a>
                             <a href="mailto:vernaconstruction@gmail.com">vernaconstruction@gmail.com</a>
                         </div>
                     </div>
@@ -464,19 +426,13 @@
                 </p>
                 <ul class="socials">
                     <li class="socials_item">
-                        <a class="socials_item-link" href="https://www.facebook.com/verna.engineers.contractors"
-                            target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i
-                                class="icon-facebook"></i></a>
+                        <a class="socials_item-link" href="https://www.facebook.com/verna.engineers.contractors" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="icon-facebook"></i></a>
                     </li>
                     <li class="socials_item">
-                        <a class="socials_item-link" href="https://www.instagram.com/verna_engineers_contractors/"
-                            target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i
-                                class="icon-instagram"></i></a>
+                        <a class="socials_item-link" href="https://www.instagram.com/verna_engineers_contractors/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="icon-instagram"></i></a>
                     </li>
                     <li class="socials_item">
-                        <a class="socials_item-link" href="https://api.whatsapp.com/send/?phone=%2B919043010199"
-                            target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i
-                                class="icon-whatsapp"></i></a>
+                        <a class="socials_item-link" href="https://api.whatsapp.com/send/?phone=%2B919043010199" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="icon-whatsapp"></i></a>
                     </li>
                 </ul>
             </div>
