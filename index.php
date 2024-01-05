@@ -5,7 +5,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Verna Engineers & Contractors</title>
+    <title>Expert Construction Services for Residential | Commercial Projects.</title>
+    <meta name="keywords"content="construction,construction company,contracts">
     <link rel="stylesheet preload" as="style" href="css/preload.min.css" />
     <link rel="stylesheet preload" as="style" href="css/icomoon.css" />
     <link rel="stylesheet preload" as="style" href="css/libs.min.css" />

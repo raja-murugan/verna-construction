@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Verna Engineers & Contractors</title>
+    <title>Transform Your Home Today! with our  House Renovation  Experts.</title>
+    <meta name="keywords"content="house renovation,renovation,building renovation ,renovation contractors">
+
     <link rel="stylesheet preload" as="style" href="css/preload.min.css">
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
@@ -19,6 +21,12 @@
             text-align: left;
         }
     </style>
+     <meta name="description" content="Looking to renovate your house | transform your house into your dream space and bring it your vision to life  .">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vernaconstruction.com/">
+    <meta property="og:title" content="Best construction company in Trichy: Building Dreams Together.">
+    <meta property="og:description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:image" content="https://vernaconstruction.com/img/banner/banner1.jpg">
 </head>
 
 <body>
@@ -84,22 +92,22 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>House Renovation Services in Trichy by Verna Engineers & Construction</h3>
+                    <h3 class=post_article-header>House Renovation Services in Trichy by Verna Engineers & contractors</h3>
                     <p class=post_article-text>
                     Renovating your house is a significant undertaking, and it's essential to choose a professional service that can handle the project with expertise and attention to detail. 
-                    At Verna Engineers & Construction, our skilled team of experts ensures that every aspect of your house renovation is executed flawlessly.
+                    At <a style="color:#4fa7b2;" href="index.php">Verna Engineers & Construction</a>, our skilled team of experts ensures that every aspect of your house renovation is executed flawlessly.
                     </p>
                     <h4 class=post_article-header>Why Choose Professional House Renovation Services?</h4>
                     <p class=post_article-text>
                         When it comes to constructing your dream building, choosing a professional construction service is paramount. 
-                        Professional builders ensure that your project is completed with expertise, on time, and within budget. 
-                        At Verna Engineers & Construction, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
+                        Professional builders ensure that your project  is completed with expertise, on time, and within budget. 
+                        At Verna Engineers & contractors, our skilled team guarantees that every aspect of your building construction is executed flawlessly.
                     </p>
                     <br>
                     <hr>
                     <br>
                     <div class="row">
-                    <h5>Our Comprehensive House Renovation Services</h5>
+                    <h5>Our Comprehensive House Renovation <a style="color:#4fa7b2;"href="service.php">Services</a> </h5>
                     <h4 class="pt-3">Verna Engineers & Construction offers a wide range of house renovation services in Trichy, including:</h4>
                         <div class= "col-lg-7">
                         
@@ -143,7 +151,7 @@
                             </div>
                         </div>
                         <div class= "col-lg-7 pt-5">
-                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction?</h4>
+                        <h4 class="one pt-3">Why Choose Verna Engineers & contractors?</h4>
                             <ul class=checklist>
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Experience :</h5></li>
                                 <p>With years of experience in the Trichy area, we understand the unique challenges and opportunities associated with house renovations in this region.</p>
@@ -162,7 +170,7 @@
                 <br>
                 <h3>Contact Us for Your House Renovation in Trichy</h3>
                 <br>
-                <p>At Verna Engineers & Construction, we are dedicated to making your house renovation dreams come true. If you're seeking professional house renovation services in Trichy, contact us today to discuss your project and transform your house into the home of your dreams.</p>
+                <p>At Verna Engineers & contractors, we are dedicated to making your house renovation dreams come true. If you're seeking professional house renovation services in Trichy,  <a style="color:#4fa7b2;" href="contacts.php">contact us</a> today to discuss your project and transform your house into the home of your dreams.</p>
             </div>
         </div>
     </main>

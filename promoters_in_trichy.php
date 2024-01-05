@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Verna Engineers & Contractors</title>
+    <title>Trusted promoters in Trichy  |Find Your Dream Property Today</title>
+    <meta name="keywords"content="promoters,land promoters,real estate promoters,property">
+
     <link rel="stylesheet preload" as="style" href="css/preload.min.css">
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
@@ -66,7 +68,7 @@
 
     <header class="page primary-bg">
         <div class=container>
-            <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Construction</span>
+            <div class=section_header><span class="subtitle subtitle--extended">Verna Engineers & Contractors</span>
                 <h1 class=title>Promoters in Trichy</h1>
                 <ul class=breadcrumbs>
                     <li><a href=index.php>Home</a></li>
@@ -79,14 +81,20 @@
                     data-src=img/plan.png src=img/plan.png alt=media>
             </picture>
         </div>
+        <meta name="description" content="Our promoters will helping you find the perfect investment for your needs  and guiding you towards a future investment.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vernaconstruction.com/">
+    <meta property="og:title" content="Best construction company in Trichy: Building Dreams Together.">
+    <meta property="og:description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:image" content="https://vernaconstruction.com/img/banner/banner1.jpg">
     </header>
     <main class="post section-nopb">
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Promoters in Trichy by Verna Engineers & Construction :</h3>
+                    <h3 class=post_article-header>Promoters in Trichy by Verna Engineers & Contractors :</h3>
                     <p class=post_article-text>
-                    Verna Engineers & Construction stands out as one of the leading promoters in Trichy, dedicated to facilitating real estate and construction projects that exceed your expectations. 
+                  <a style="color:#4fa7b2;"href="index.php"> Verna Engineers & Contractors </a> stands out as one of the leading real-estate,property promoters in Trichy, dedicated to facilitating real estate and construction projects that exceed your expectations. 
                     With a commitment to excellence and a passion for innovation, we are your trusted partners in realizing your dreams.
                     </p>
                     <h4 class=post_article-header>Why Choose Professional Promoters ?</h4>
@@ -99,15 +107,14 @@
                     <br>
                     <div class="row">
                     <h5>Our Comprehensive Promoter Services ,</h5>
-                    <h4 class="pt-3">Verna Engineers & Construction offers a wide range of promoter services in Trichy, including :</h4>
+                    <h4 class="pt-3">Verna Engineers & Contractors offers a wide range of promoter services in Trichy, including :</h4>
                         <div class= "col-lg-7">
                         
                             <ul class=checklist>
-                                <li class=checklist_item><i class="icon-check icon"></i><h5> Real Estate Promotion :</h5></li>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5><a  style="color:#4fa7b2;"href="real_estate_in_trichy.php">Real Estate</a> Promotion :</h5></li>
                                 <p>We assist in promoting real estate projects, connecting buyers and sellers, and ensuring seamless transactions.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Construction Project Promotion :</h5></li>
-                                <p>Our services extend to promoting construction projects, from residential developments to commercial ventures.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Legal Expertise :</h5></li>
                                 <p>Our team can guide you through the legal aspects of property transactions, ensuring compliance with all regulations and standards.</p>
@@ -116,7 +123,7 @@
                                 <p>We offer expert advice on real estate and construction investments, helping you make informed decisions.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Property Development Consulting : </h5></li>
-                                <p>Our consultancy services cover property development, including market research, feasibility studies, and project planning.</p>
+                                <p>Our <a style="color:#4fa7b2;" href="about.php"> consultancy services </a>cover property development, including market research, feasibility studies, and project planning.</p>
                             </ul>
                         </div>
                         <div class= "col-lg-5 col-md-4 pt-5">
@@ -140,7 +147,7 @@
                             </div>
                         </div>
                         <div class= "col-lg-7 pt-5">
-                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction ?</h4>
+                        <h4 class="one pt-3">Why Choose Verna Engineers & Contractors ?</h4>
                             <ul class=checklist>
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Local Expertise :</h5></li>
                                 <p>With years of experience in Trichy, we have a deep understanding of the local real estate and construction market.</p>
@@ -160,8 +167,8 @@
                 <h3>Contact Us for Promoter Services in Trichy</h3>
                 <br>
                 <p>
-                When it comes to choosing promoters in Trichy, Verna Engineers & Construction is your top choice. 
-                Contact us today to discuss your real estate and construction promotion needs, and let us help you turn your visions into successful projects.
+                When it comes to choosing promoters in Trichy, Verna Engineers & Contractors is your top choice. 
+                <a style="color:#4fa7b2;" href="contacts.php">contact us</a>today to discuss your real estate and construction promotion needs, and let us help you turn your visions into successful projects.
                 </p>
             </div>
         </div>

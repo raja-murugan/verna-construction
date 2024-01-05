@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Verna Engineers & Contractors</title>
+    <title>Professional Surveyor Services | Land Surveyor Experts .</title>
+    <meta name="description" content="Looking for  licensed surveyor in Trichy? We provide precise land surveying services in Trichy & nearby areas. ">
+    <meta name="keywords"content="licensed surveyor,licensed land surveyor near me,licensed surveyor near me,licensed land surveyor,surveyor,surveyors near me,land surveyor near me
+land surveyor">
+
     <link rel="stylesheet preload" as="style" href="css/preload.min.css">
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
@@ -19,6 +23,12 @@
             text-align: left;
         }
     </style>
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vernaconstruction.com/">
+    <meta property="og:title" content="Best construction company in Trichy: Building Dreams Together.">
+    <meta property="og:description" content="We're not just constructing buildings; we're shaping a lively environment where sustainability, modern design, and thoughtful planning come together.">
+    <meta property="og:image" content="https://vernaconstruction.com/img/banner/banner1.jpg">
 </head>
 
 <body>
@@ -84,35 +94,35 @@
         <div class="post_container container">
             <div class=post_content>
                 <article class=post_article>
-                    <h3 class=post_article-header>Licensed Surveyor in Trichy by Verna Engineers & Construction :</h3>
+                    <h3 class=post_article-header>Licensed Surveyor in Trichy by <a href="index.php">Verna Engineers Contractors :</a></h3>
                     <p class=post_article-text>
-                        Are you in search of a licensed surveyor in Trichy who can provide expert, accurate, and professional surveying services? Look no further than Verna Engineers & Construction. 
+                        Are you in search of a licensed surveyor in Trichy who can provide expert, accurate, and professional land surveying services? Look no further than Verna Engineers & Contractors. 
                         Our unwavering commitment to precision, quality, and excellence has made us the trusted choice for all your surveying needs in Trichy.
                     </p>
-                    <h4 class=post_article-header>Why Choose a Licensed Surveyor ?</h4>
+                    <h4 class=post_article-header>Why Choose a <a  style="color:#4fa7b2;" href="service.php"> Licensed Surveyor ?</a></h4>
                     <p class=post_article-text>
-                        Before delving into the array of exceptional services that Verna Engineers & Construction offers, it's essential to understand the crucial importance of hiring a licensed surveyor. A licensed surveyor brings a wealth of expertise and a rigorous commitment to accuracy and professionalism to your project. 
+                        Before delving into the array of exceptional services that Verna Engineers & Contractors offers, it's essential to understand the crucial importance of hiring a licensed surveyor. A licensed surveyor brings a wealth of expertise and a rigorous commitment to accuracy and professionalism to your project. 
                         They ensure that your land-related tasks are carried out with precision, adhering to both legal and industry standards.
                     </p>
                     <br>
                     <hr>
                     <br>
                     <div class="row">
-                    <h5>Our Comprehensive Licensed Surveying Services ,</h5>
-                    <h4 class="pt-3">At Verna Engineers & Construction, we take immense pride in our team of licensed surveyors who boast extensive experience in the field. We offer a wide range of surveying services, including :</h4>
+                    <h5>Our Comprehensive Licensed<a href="service.php">Surveying Services </a>,</h5>
+                    <h4 class="pt-3">  <a href="index.php">At Verna Engineers & Contractors,</a> we take immense pride in our team of licensed surveyor who boast extensive experience in the field. We offer a wide range of surveying services, including :</h4>
                         <div class= "col-lg-7">
                         
                             <ul class=checklist>
-                                <li class=checklist_item><i class="icon-check icon"></i><h5> Land Surveys :</h5></li>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5><a href="service.php"> Land Surveyor</a> :</h5></li>
                                 <p>Whether you're a homeowner, a real estate developer, or a business owner, our licensed surveyors are equipped to provide land boundary surveys, topographic surveys, and more. These surveys are essential for making informed decisions about your property and development plans.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Construction Layouts :</h5></li>
-                                <p>Embarking on a construction project in Trichy? Our licensed surveyors will ensure that your plans are executed with pinpoint accuracy, helping you avoid costly mistakes and ensuring the success of your project.</p>
+                                <p>Embarking on a <a  style="color:#4fa7b2;" href="gallery.php"> construction project in Trichy?</a> Our licensed land surveyors will ensure that your plans are executed with pinpoint accuracy, helping you avoid costly mistakes and ensuring the success of your project.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Legal Documentation :</h5></li>
-                                <p>Navigating the complex legal requirements of land-related transactions can be a daunting task. Our team at Verna Engineers & Construction will handle all the necessary legal paperwork, ensuring that your land transactions proceed smoothly and without hitches.</p>
+                                <p>Navigating the complex legal requirements of land-related transactions can be a daunting task. Our team at <a style="color:#4fa7b2;"  href="index.php"> Verna Engineers & Contractors</a> will handle all the necessary legal paperwork, ensuring that your land transactions proceed smoothly and without hitches.</p>
                                 
-                                <li class=checklist_item><i class="icon-check icon"></i><h5> Cutting-Edge Technology :</h5></li>
+                                <li class=checklist_item><i class="icon-check icon"></i><h5>  <a href="img/blog/2.jpg">Cutting-Edge Technology</a>:</h5></li>
                                 <p>We are committed to staying at the forefront of surveying technology. By utilizing the latest tools and techniques, we guarantee precise and efficient results, saving you time and resources.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Our Expertise in Trichy : </h5></li>
@@ -140,13 +150,13 @@
                             </div>
                         </div>
                         <div class= "col-lg-7 pt-5">
-                        <h4 class="one pt-3">Why Choose Verna Engineers & Construction ?</h4>
+                        <h4 class="one pt-3">Why Choose Verna Engineers & Contractors ?</h4>
                             <ul class=checklist>
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Years of Experience :</h5></li>
                                 <p>With a track record of years in Trichy, we have gained a deep understanding of the region's unique challenges and opportunities. Our experience is your assurance of quality.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Uncompromising Accuracy :</h5></li>
-                                <p>At Verna Engineers & Construction, we leave no room for errors. We pride ourselves on ensuring that your projects proceed seamlessly and without costly setbacks.</p>
+                                <p>At Verna Engineers & Contractors, we leave no room for errors. We pride ourselves on ensuring that your projects proceed seamlessly and without costly setbacks.</p>
                                 
                                 <li class=checklist_item><i class="icon-check icon"></i><h5> Client-Centric Approach :</h5></li>
                                 <p>We prioritize your needs and satisfaction above all else. Our team is dedicated to keeping you informed and engaged throughout the surveying process, ensuring a positive and hassle-free experience.</p>
@@ -160,17 +170,17 @@
                 <h3>Contact Us for Licensed Surveyor in Trichy</h3>
                 <br>
                 <p>
-                    If you're seeking a licensed surveyor in Trichy, look no further than Verna Engineers & Construction for unparalleled quality, professionalism, and expertise. 
+                    If you're seeking a licensed surveyor in Trichy, look no further than <a href="index.php">Verna Engineers & Construction </a> for unparalleled quality, professionalism, and expertise. 
                     We are your partners in making informed decisions about your land-related endeavors.
                     Don't hesitate to reach out to us for any surveying needs in Trichy. 
-                    Contact us today, and let our licensed surveyors at Verna Engineers & Construction guide you through the precision and professionalism you deserve.
+                    <a style="color:#4fa7b2;" href="contacts.php">contact us</a> today, and let our<a href="service.php"> Land Surveyor</a> at Verna Engineers & Contractors guide you through the precision and professionalism you deserve.
                 </p>
             </div>
         </div>
     </main>
     <br>
     
-    <footer class="footer primary-bg">
+    <footer class="footer primary-bg">dc
         <div class="container">
             <div class="footer_main">
                 <div class="footer_main-block">
